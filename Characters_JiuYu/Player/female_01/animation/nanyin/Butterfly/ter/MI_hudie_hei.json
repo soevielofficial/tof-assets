@@ -1,0 +1,80 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/T_Linear_MidGray_1x1.T_Linear_MidGray_1x1",
+    "T_Linear_MidGray_1x1": "Hotta/Content/Resources/Characters/T_Linear_MidGray_1x1.T_Linear_MidGray_1x1",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/animation/nanyin/Butterfly/ter/hudie_hei.hudie_hei",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/animation/nanyin/Butterfly/ter/hudie_hei.hudie_hei"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "AmbColor": {
+        "R": 0.030666,
+        "G": 0.041217,
+        "B": 0.05,
+        "A": 1.0,
+        "Hex": "FF31393F"
+      },
+      "RimColorNoMask": {
+        "R": 0.473958,
+        "G": 0.422858,
+        "B": 0.372748,
+        "A": 1.0,
+        "Hex": "FFB7AEA4"
+      }
+    },
+    "Scalars": {
+      "SpecIntensity": 0.02,
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "LightIntensity": 1.0,
+      "4.RimExp": 20.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseForLod": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_TwoSided": true,
+        "TwoSided": true,
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

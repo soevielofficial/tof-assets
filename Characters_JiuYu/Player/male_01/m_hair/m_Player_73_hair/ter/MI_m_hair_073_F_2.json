@@ -1,0 +1,93 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/m_hair/m_Player_73_hair/ter/T_m_player_73_f_m.T_m_player_73_f_m",
+    "T_m_player_73_f_m": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/m_hair/m_Player_73_hair/ter/T_m_player_73_f_m.T_m_player_73_f_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/m_hair/m_Player_73_hair/ter/T_m_player_73_f_d.T_m_player_73_f_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/m_hair/m_Player_73_hair/ter/T_m_player_73_f_d.T_m_player_73_f_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFBCBCBC"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor1": {
+        "R": 0.432292,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFB00000"
+      },
+      "HairColor2": {
+        "R": 0.130208,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF650000"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColorNoMask": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 0.5,
+      "SunColorStrength": 1.5,
+      "ShadowColorStrength": 1.2,
+      "Offset": 0.5,
+      "SpecIntensity": 0.3,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "UVStep": 1.0,
+      "ToonIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

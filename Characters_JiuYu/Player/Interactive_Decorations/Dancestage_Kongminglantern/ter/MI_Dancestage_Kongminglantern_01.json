@@ -1,0 +1,112 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/Interactive_Decorations/Dancestage_Kongminglantern/ter/T_Dancestage_Kongminglantern_01_m.T_Dancestage_Kongminglantern_01_m",
+    "T_Dancestage_Kongminglantern_01_m": "Hotta/Content/Resources/Characters_JiuYu/Player/Interactive_Decorations/Dancestage_Kongminglantern/ter/T_Dancestage_Kongminglantern_01_m.T_Dancestage_Kongminglantern_01_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/Interactive_Decorations/Dancestage_Kongminglantern/ter/T_Dancestage_Kongminglantern_01_d.T_Dancestage_Kongminglantern_01_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/Interactive_Decorations/Dancestage_Kongminglantern/ter/T_Dancestage_Kongminglantern_01_d.T_Dancestage_Kongminglantern_01_d",
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap09.Matcap09",
+    "Matcap09": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap09.Matcap09",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap061.MatCap061",
+    "MatCap061": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap061.MatCap061"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColor": {
+        "R": 0.125,
+        "G": 0.083333,
+        "B": 0.0425,
+        "A": 1.0,
+        "Hex": "FF63513A"
+      },
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 0.947917,
+        "G": 0.820831,
+        "B": 0.332861,
+        "A": 0.0,
+        "Hex": "FAEA9C"
+      },
+      "RimColorNoMask": {
+        "R": 0.041667,
+        "G": 0.027778,
+        "B": 0.014167,
+        "A": 1.0,
+        "Hex": "FF392E1F"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.140987,
+      "SpecIntensity": 0.4763,
+      "SpecSize": 0.0,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "RampCurve_Hard": 3.0,
+      "HardMin": 0.2,
+      "HardMax": 10.795005,
+      "HardInt": 1.0,
+      "RampCurve_SoftCommon": 2.0,
+      "RampCurve_metal": 4.0,
+      "MetalMin": 0.2,
+      "MetalMax": 1.0,
+      "RampCurve_Tights": 1.0,
+      "RampCurve_Skin": 0.0,
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.5,
+      "C_EmissiveIntensity": 2.0,
+      "OpacityMaskVal": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseRampShadowMask": true,
+      "UseRimLight": true,
+      "UseRampMaskForRimLight": true,
+      "UseLightMap": true,
+      "UseMatcap": true,
+      "UseLocalReflectionForHard": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

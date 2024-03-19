@@ -1,0 +1,99 @@
+{
+  "Textures": {
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap08.Matcap08",
+    "Matcap08": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap08.Matcap08",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_53/ter/T_f_mimicry_fashion_53_02_id.T_f_mimicry_fashion_53_02_id",
+    "HardLayerMask": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_53/ter/T_f_mimicry_fashion_53_02_id.T_f_mimicry_fashion_53_02_id",
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/1_Tex.1_Tex",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_53_L1/ter/f_mimicry_fashion_53_L1_cloth_01_d.f_mimicry_fashion_53_L1_cloth_01_d",
+    "1_Tex": "Hotta/Content/Resources/CubeMap/1_Tex.1_Tex",
+    "LightMap": "Hotta/Content/Resources/Characters/T_Linear_MidGray_1x1.T_Linear_MidGray_1x1",
+    "T_Linear_MidGray_1x1": "Hotta/Content/Resources/Characters/T_Linear_MidGray_1x1.T_Linear_MidGray_1x1",
+    "PM_Normals": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_53_L1/ter/f_mimicry_fashion_53_L1_cloth_01_n.f_mimicry_fashion_53_L1_cloth_01_n",
+    "NormalMap": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_53_L1/ter/f_mimicry_fashion_53_L1_cloth_01_n.f_mimicry_fashion_53_L1_cloth_01_n",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_53_L1/ter/f_mimicry_fashion_53_L1_cloth_01_d.f_mimicry_fashion_53_L1_cloth_01_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.948486,
+        "G": 0.957459,
+        "B": 0.984375,
+        "A": 1.0,
+        "Hex": "FFFAFBFE"
+      },
+      "CenterBaseColor": {
+        "R": 0.729167,
+        "G": 0.705148,
+        "B": 0.712528,
+        "A": 1.0,
+        "Hex": "FFDEDBDC"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "HardMin": 0.8,
+      "HardMax": 0.5,
+      "HardInt": 1.0,
+      "CubeRimIntensity": 5.0,
+      "RimFresnelBase": 3.849279,
+      "RimFresnelExp": 8.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.1,
+      "SpecIntensity": 0.4,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "Offset": 0.2,
+      "ToonIntensity": 1.0,
+      "CenterTransparenct": 2.0,
+      "RimTransparent": 2.0,
+      "TransparentMultiply": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHardCatmap": true,
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_OpacityMaskClipValue": true,
+        "bOverride_BlendMode": true,
+        "bOverride_ShadingModel": true,
+        "bOverride_DitheredLODTransition": true,
+        "bOverride_TwoSided": true,
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

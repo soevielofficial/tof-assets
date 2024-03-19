@@ -1,0 +1,111 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/animation/bulewei/weapon_anim/ter/T_weapon_pokemon_001_d.T_weapon_pokemon_001_d",
+    "T_SkyLight_Tex2": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "LightMap": "Hotta/Content/Resources/Characters/T_Linear_MidGray_1x1.T_Linear_MidGray_1x1",
+    "T_Linear_MidGray_1x1": "Hotta/Content/Resources/Characters/T_Linear_MidGray_1x1.T_Linear_MidGray_1x1",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/animation/bulewei/weapon_anim/ter/T_weapon_pokemon_001_d.T_weapon_pokemon_001_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "gaoliang": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 0.976708,
+        "G": 0.989687,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFDFEFF"
+      },
+      "CenterBaseColor": {
+        "R": 0.23945,
+        "G": 0.600762,
+        "B": 0.645833,
+        "A": 1.0,
+        "Hex": "FF86CCD3"
+      },
+      "RimBaseColor": {
+        "R": 0.0,
+        "G": 0.054995,
+        "B": 0.130208,
+        "A": 1.0,
+        "Hex": "FF004265"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 14.080935,
+      "RimFresnelBase": 1.242718,
+      "RimFresnelExp": 15.866899,
+      "Dissolve": 0.0,
+      "Dissolve_UVs": 2.0,
+      "EmissiveWidth": 0.1,
+      "OpacityMaskVal": 2.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.319846,
+      "SpecIntensity": 1.125126,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 1.0,
+      "SkinShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "FresnelMin": 0.04,
+      "ToonIntensity": 1.0,
+      "CenterTransparenct": 2.0,
+      "RimTransparent": 0.993641,
+      "TransparentMultiply": 0.201732,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
