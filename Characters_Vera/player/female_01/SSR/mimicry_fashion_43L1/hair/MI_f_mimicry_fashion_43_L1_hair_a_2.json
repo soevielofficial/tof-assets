@@ -1,0 +1,95 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_43L1/hair/T_f_mimicry_fashion_43_L1_hair_02_m.T_f_mimicry_fashion_43_L1_hair_02_m",
+    "T_f_mimicry_fashion_43_L1_hair_02_m": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_43L1/hair/T_f_mimicry_fashion_43_L1_hair_02_m.T_f_mimicry_fashion_43_L1_hair_02_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_43L1/hair/id2.id2",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_43L1/hair/T_f_mimicry_fashion_43_L1_hair_02_d.T_f_mimicry_fashion_43_L1_hair_02_d",
+    "ParallaxDiffuseTex": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_43L1/hair/id.id",
+    "ParallaxDiffuseIntTex": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_43L1/hair/id2.id2"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.068495,
+        "G": 0.07083,
+        "B": 0.130208,
+        "A": 1.0,
+        "Hex": "FF4A4B65"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ParallaxDiffuseTexScaleAndSpeed": {
+        "R": 0.3,
+        "G": 0.3,
+        "B": 0.1,
+        "A": -0.1,
+        "Hex": "959559"
+      },
+      "RimColorNoMask": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 2.0,
+      "ShadowColorStrength": 3.0,
+      "Offset": 0.5,
+      "SpecIntensity": 0.5,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "UVStep": 1.0,
+      "ParallaxHeightRation": 0.0,
+      "UV1GradientPower": 0.2,
+      "ParallaxDiffuseIntTexPower": -1.0,
+      "ParallaxDiffuseIntTexInt": 1.0,
+      "ParallaxFarScaleDistance": 10000.0,
+      "ParallaxFarScale": 500.0,
+      "ParallaxNearScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true,
+      "UseBlendParallaxTex": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

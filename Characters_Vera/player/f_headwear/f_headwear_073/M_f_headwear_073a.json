@@ -1,0 +1,167 @@
+{
+  "Textures": {
+    "Tex01": "Hotta/Content/Resources/Effect/Textures/Energy/T_Noise_004.T_Noise_004",
+    "T_Noise_004": "Hotta/Content/Resources/Effect/Textures/Energy/T_Noise_004.T_Noise_004",
+    "Tex02": "Hotta/Content/Resources/Effect/Textures/Energy/T_Noise_004.T_Noise_004",
+    "Tex03": "Hotta/Content/Resources/Effect/Textures/Energy/T_Noise_004.T_Noise_004",
+    "Tex04": "Hotta/Content/Resources/Effect/Textures/Energy/T_Noise_004.T_Noise_004"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tex_Base_Color": {
+        "R": 1.0,
+        "G": 0.84045,
+        "B": 0.023719,
+        "A": 1.0,
+        "Hex": "FFFFED2A"
+      },
+      "Tex_Wave_Color": {
+        "R": 10.0,
+        "G": 9.222757,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Tex01_Color": {
+        "R": 5.0,
+        "G": 3.816312,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Tex01_Control": {
+        "R": 10.0,
+        "G": 4.595759,
+        "B": 0.0,
+        "A": 0.1,
+        "Hex": "19FFFF00"
+      },
+      "Tex01_UVsOffset": {
+        "R": 0.16,
+        "G": 0.16,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "6F6F00"
+      },
+      "Tex01M_UVsPanner": {
+        "R": 0.16,
+        "G": 0.16,
+        "B": 0.01,
+        "A": 0.01,
+        "Hex": "026F6F19"
+      },
+      "Tex02_Color": {
+        "R": 5.0,
+        "G": 3.816312,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Tex02_Control": {
+        "R": 10.0,
+        "G": 4.595759,
+        "B": 0.0,
+        "A": 0.1,
+        "Hex": "19FFFF00"
+      },
+      "Tex02_UVsOffset": {
+        "R": 0.23,
+        "G": 0.23,
+        "B": 0.15,
+        "A": -0.3,
+        "Hex": "84846C"
+      },
+      "Tex02M_UVsPanner": {
+        "R": 0.23,
+        "G": 0.23,
+        "B": -0.005,
+        "A": 0.01,
+        "Hex": "02848400"
+      },
+      "Tex03_Color": {
+        "R": 5.0,
+        "G": 3.816312,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Tex03_Control": {
+        "R": 10.0,
+        "G": 4.595759,
+        "B": 0.0,
+        "A": 0.1,
+        "Hex": "19FFFF00"
+      },
+      "Tex03_UVsOffset": {
+        "R": 0.27,
+        "G": 0.27,
+        "B": 0.0,
+        "A": 0.5,
+        "Hex": "7F8E8E00"
+      },
+      "Tex03M_UVsPanner": {
+        "R": 0.27,
+        "G": 0.27,
+        "B": -0.01,
+        "A": 0.005,
+        "Hex": "8E8E00"
+      },
+      "Tex04_Color": {
+        "R": 15.0,
+        "G": 10.432383,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Tex04_Control": {
+        "R": 50.0,
+        "G": 49.200005,
+        "B": 2.000001,
+        "A": 0.5,
+        "Hex": "7FFFFFFF"
+      },
+      "Tex04_UVsOffset": {
+        "R": 0.35,
+        "G": 0.35,
+        "B": -0.5,
+        "A": -0.5,
+        "Hex": "A0A000"
+      },
+      "Tex04M_UVsPanner": {
+        "R": 0.7,
+        "G": 0.7,
+        "B": 0.01,
+        "A": -0.01,
+        "Hex": "DADA19"
+      }
+    },
+    "Scalars": {
+      "Tex01_Height": 1.0,
+      "Tex02_Height": -1.0,
+      "Tex03_Height": -3.0,
+      "Tex04_Height": -7.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Use_Tex02": true,
+      "Use_Tex03": true,
+      "Use_Tex04": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

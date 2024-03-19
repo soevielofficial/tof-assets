@@ -1,0 +1,112 @@
+{
+  "Textures": {
+    "LatexMatcap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/T_Matcap_Color2.T_Matcap_Color2",
+    "T_Matcap_Color2": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/T_Matcap_Color2.T_Matcap_Color2",
+    "LatexCubemap": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_player_43/ter/T_f_Player_43_01_D.T_f_Player_43_01_D",
+    "T_SkyLight_Tex2": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_player_43/ter/T_f_Player_43_01_M.T_f_Player_43_01_M",
+    "T_f_Player_43_01_M": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_player_43/ter/T_f_Player_43_01_M.T_f_Player_43_01_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_player_43/ter/T_f_Player_43_01_N.T_f_Player_43_01_N",
+    "NormalMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_player_43/ter/T_f_Player_43_01_N.T_f_Player_43_01_N",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_player_43/ter/T_f_Player_43_01_D.T_f_Player_43_01_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.949041,
+        "G": 0.343006,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFA9EFF"
+      },
+      "SunColorMuti": {
+        "R": 0.730045,
+        "G": 0.539777,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFDEC2FF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Latex_CenterColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Latex_SideColor": {
+        "R": 0.013364,
+        "G": 0.098154,
+        "B": 0.28125,
+        "A": 1.0,
+        "Hex": "FF1E5891"
+      },
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 0.214286,
+      "SunColorStrength": 1.25485,
+      "ShadowColorStrength": 1.397606,
+      "SkinSunColorStrength": 1.0,
+      "SkinShadowColorStrength": 1.0,
+      "Latex_ColorCenter": 0.1,
+      "Latex_ColorPower": 1.0,
+      "Latex_TranslucentCenter": 0.8,
+      "Latex_ColorBlend": 1.0,
+      "LatexMatCapDensity": 3.62381,
+      "LatexCubemapCenter": 0.04,
+      "LatexCubemapPow": 3.0,
+      "LatexCubemapDensity": 0.2,
+      "UseM_Tex_B": 1.403761,
+      "NormalMapScale": 2.853662,
+      "SpecIntensity": 7.759638,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

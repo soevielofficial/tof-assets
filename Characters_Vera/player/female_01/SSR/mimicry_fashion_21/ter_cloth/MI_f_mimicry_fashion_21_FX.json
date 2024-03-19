@@ -1,0 +1,95 @@
+{
+  "Textures": {
+    "T_Tiles006": "Hotta/Content/Resources/Effect/Textures/Tiles/T_Tiles006.T_Tiles006",
+    "Good64x64TilingNoiseHighFreq": "Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.Good64x64TilingNoiseHighFreq"
+  },
+  "Parameters": {
+    "BlendMode": 3,
+    "ShadingModel": 0,
+    "Colors": {
+      "DissolveDir": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": -1.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "DissolvePos": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "Dissolve_FresnelColor": {
+        "R": 0.729168,
+        "G": 2.320859,
+        "B": 20.0,
+        "A": 1.0,
+        "Hex": "FFDEFFFF"
+      },
+      "SpecularColor": {
+        "R": 0.34111,
+        "G": 0.442421,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FF9EB2FF"
+      },
+      "BaseColor": {
+        "R": 0.896269,
+        "G": 0.520996,
+        "B": 0.093059,
+        "A": 1.0,
+        "Hex": "FFF3BF56"
+      }
+    },
+    "Scalars": {
+      "Number": 10.0,
+      "OpacityMaskVal": 1.0,
+      "InvisableSkillOpacity": 1.0,
+      "LightA_Rot": 10.0,
+      "EmissiveWidth": 0.1,
+      "NoiseScale": 0.5,
+      "PlayerInvisable": 1.0,
+      "DissolveHardNess": 0.01,
+      "Dissolve": 0.0,
+      "UseDirDissolveDir": 0.0,
+      "LightA_power": 100.0,
+      "LightA_Stength": 100.0,
+      "Dissolve_UVs": 2.0,
+      "Opacity": 0.5
+    },
+    "Switches": {},
+    "Properties": {
+      "EmissiveColor": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionMultiply_18",
+        "UseConstant": false,
+        "Constant": {
+          "B": 0,
+          "G": 0,
+          "R": 0,
+          "A": 0,
+          "Hex": "000000"
+        }
+      },
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "bCastRayTracedShadows": false,
+      "StateId": "AA12D0C5-4EBDA99F-6B178BAA-6142C459"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

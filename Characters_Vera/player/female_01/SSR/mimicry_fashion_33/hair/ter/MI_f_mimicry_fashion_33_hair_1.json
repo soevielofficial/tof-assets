@@ -1,0 +1,71 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_33_L3/hair/ter_now/f_mimicry_fashion_33L3_hair_01_m.f_mimicry_fashion_33L3_hair_01_m",
+    "f_mimicry_fashion_33L3_hair_01_m": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_33_L3/hair/ter_now/f_mimicry_fashion_33L3_hair_01_m.f_mimicry_fashion_33L3_hair_01_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_33_L3/hair/ter_now/f_mimicry_fashion_33L3_hair_01_D.f_mimicry_fashion_33L3_hair_01_D",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_33_L3/hair/ter_now/f_mimicry_fashion_33L3_hair_01_D.f_mimicry_fashion_33L3_hair_01_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor1": {
+        "R": 0.494792,
+        "G": 0.29636,
+        "B": 0.412085,
+        "A": 1.0,
+        "Hex": "FFBB94AC"
+      },
+      "HairColor2": {
+        "R": 0.466959,
+        "G": 0.609079,
+        "B": 0.786458,
+        "A": 1.0,
+        "Hex": "FFB6CDE6"
+      },
+      "RimColorNoMask": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.8,
+      "ShadowColorStrength": 2.1,
+      "Offset": 0.5,
+      "SpecIntensity": 0.25,
+      "BlendCenter": 1.0,
+      "BlendDistance": 0.5,
+      "UVStep": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

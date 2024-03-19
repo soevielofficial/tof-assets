@@ -1,0 +1,66 @@
+{
+  "Textures": {
+    "f_headwear_077_d": "Hotta/Content/Resources/Characters_Vera/player/f_headwear/f_headwear_077/f_headwear_077_d.f_headwear_077_d",
+    "T_Noise_004": "Hotta/Content/Resources/Effect/Textures/Energy/T_Noise_004.T_Noise_004",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/f_headwear/f_headwear_077/f_headwear_077_d.f_headwear_077_d"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color_A": {
+        "R": 6.0,
+        "G": 2.826272,
+        "B": 0.927864,
+        "A": 1.0,
+        "Hex": "FFFFFFF7"
+      },
+      "Color_B": {
+        "R": 30.0,
+        "G": 23.190153,
+        "B": 14.658827,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "Rotator_Speed": 1.0,
+      "Fresnel_BaswRe": 0.3,
+      "Fresnel_Ex": 5.0
+    },
+    "Switches": {},
+    "Properties": {
+      "EmissiveColor": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionAdd_3",
+        "UseConstant": false,
+        "Constant": {
+          "B": 0,
+          "G": 0,
+          "R": 0,
+          "A": 0,
+          "Hex": "000000"
+        }
+      },
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "TwoSided": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "2C6511EB-4E1F3FE9-D4162491-4875724E"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

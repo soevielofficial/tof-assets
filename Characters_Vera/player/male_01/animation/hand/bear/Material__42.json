@@ -1,0 +1,24 @@
+{
+  "Textures": {
+    "npc_shu_027_xiong_d": "Hotta/Content/Resources/Characters_Vera/player/male_01/animation/hand/bear/npc_shu_027_xiong_d.npc_shu_027_xiong_d",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/male_01/animation/hand/bear/npc_shu_027_xiong_d.npc_shu_027_xiong_d"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "0BDECD64-46BD2B23-303DF7AA-5C8C43D3"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

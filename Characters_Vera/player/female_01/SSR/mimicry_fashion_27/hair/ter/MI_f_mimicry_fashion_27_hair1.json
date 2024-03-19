@@ -1,0 +1,84 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_27/hair/ter/f_mimicry_fashion_27_hair1_M.f_mimicry_fashion_27_hair1_M",
+    "f_mimicry_fashion_27_hair1_M": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_27/hair/ter/f_mimicry_fashion_27_hair1_M.f_mimicry_fashion_27_hair1_M",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_27/hair/ter/f_mimicry_fashion_27_hair1_d.f_mimicry_fashion_27_hair1_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_27/hair/ter/f_mimicry_fashion_27_hair1_d.f_mimicry_fashion_27_hair1_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColorNoMask": {
+        "R": 0.8,
+        "G": 0.533333,
+        "B": 0.272,
+        "A": 1.0,
+        "Hex": "FFE8C18E"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 0.5,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.8,
+      "Offset": 0.5,
+      "SpecIntensity": 0.3,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

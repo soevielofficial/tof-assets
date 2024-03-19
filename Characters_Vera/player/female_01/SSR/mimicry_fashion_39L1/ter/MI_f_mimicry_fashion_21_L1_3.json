@@ -1,0 +1,109 @@
+{
+  "Textures": {
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap064_1.MatCap064_1",
+    "MatCap064_1": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap064_1.MatCap064_1",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_39L1/ter/T_f_mimicry_fashion_39L1_d3_id.T_f_mimicry_fashion_39L1_d3_id",
+    "HardLayerMask": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_39L1/ter/T_f_mimicry_fashion_39L1_d3_id.T_f_mimicry_fashion_39L1_d3_id",
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/05.05",
+    "05": "Hotta/Content/Resources/CubeMap/05.05",
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_39L1/ter/T_f_mimicry_fashion_39L1_m3.T_f_mimicry_fashion_39L1_m3",
+    "T_f_mimicry_fashion_39L1_m3": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_39L1/ter/T_f_mimicry_fashion_39L1_m3.T_f_mimicry_fashion_39L1_m3",
+    "PM_Normals": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_36L1/ter_cloth/T_f_mimicry_fashion_36_L1_3_n.T_f_mimicry_fashion_36_L1_3_n",
+    "NormalMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_36L1/ter_cloth/T_f_mimicry_fashion_36_L1_3_n.T_f_mimicry_fashion_36_L1_3_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_39L1/ter/T_f_mimicry_fashion_39L1_d3.T_f_mimicry_fashion_39L1_d3",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_39L1/ter/T_f_mimicry_fashion_39L1_d3.T_f_mimicry_fashion_39L1_d3"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.984375,
+        "G": 0.986794,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFEFEFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.533203,
+        "G": 0.582541,
+        "B": 0.65625,
+        "A": 1.0,
+        "Hex": "FFC1C9D4"
+      },
+      "CenterBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "HardMin": 0.1,
+      "HardMax": 3.0,
+      "HardInt": 3.0,
+      "CubeRimIntensity": 1.0,
+      "RimFresnelBase": 1.0,
+      "RimFresnelExp": 8.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.001,
+      "SpecIntensity": 0.08,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.5,
+      "Offset": 0.5,
+      "LightIntensity": 2.0,
+      "CenterTransparenct": 1.0,
+      "RimTransparent": 1.0,
+      "TransparentMultiply": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHardCatmap": true,
+      "UseCubeHightLight": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

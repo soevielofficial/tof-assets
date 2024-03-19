@@ -1,0 +1,68 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_hair/f_hair_54/ter/T_f_hair_54_B_m.T_f_hair_54_B_m",
+    "T_f_hair_54_B_m": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_hair/f_hair_54/ter/T_f_hair_54_B_m.T_f_hair_54_B_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_hair/f_hair_54/ter/T_f_hair_54_B_d.T_f_hair_54_B_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/f_hair/f_hair_54/ter/T_f_hair_54_B_d.T_f_hair_54_B_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFBCBCBC"
+      },
+      "HairColor1": {
+        "R": 0.083333,
+        "G": 0.058159,
+        "B": 0.065769,
+        "A": 1.0,
+        "Hex": "FF514448"
+      },
+      "HairColor2": {
+        "R": 0.026042,
+        "G": 0.018175,
+        "B": 0.020553,
+        "A": 1.0,
+        "Hex": "FF2C2427"
+      },
+      "RimColorNoMask": {
+        "R": 0.078125,
+        "G": 0.052083,
+        "B": 0.026563,
+        "A": 1.0,
+        "Hex": "FF4F402D"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.5,
+      "ShadowColorStrength": 1.2,
+      "Offset": 0.5,
+      "SpecIntensity": 1.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

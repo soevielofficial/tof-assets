@@ -1,0 +1,68 @@
+{
+  "Textures": {
+    "Tex_Ice": "Hotta/Content/Resources/Effect/Textures/Masks/T_Mask023a.T_Mask023a",
+    "T_Mask023a": "Hotta/Content/Resources/Effect/Textures/Masks/T_Mask023a.T_Mask023a",
+    "Tex_Reflection": "Hotta/Content/Resources/CubeMap/N3.N3",
+    "N3": "Hotta/Content/Resources/CubeMap/N3.N3",
+    "PM_Normals": "Hotta/Content/Resources/Effect/Particles/Test/IceCool/Textures/Additional/T_CristalHard_N.T_CristalHard_N",
+    "Tex_Norm": "Hotta/Content/Resources/Effect/Particles/Test/IceCool/Textures/Additional/T_CristalHard_N.T_CristalHard_N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tex_Ice_UVs": {
+        "R": 4.0,
+        "G": 2.353094,
+        "B": 0.244217,
+        "A": 1.0,
+        "Hex": "FFFFFF88"
+      },
+      "IceColor01": {
+        "R": 1.0,
+        "G": 0.266058,
+        "B": 0.004132,
+        "A": 1.0,
+        "Hex": "FFFF8D0D"
+      },
+      "IceColor02": {
+        "R": 1.0,
+        "G": 0.144519,
+        "B": 0.034841,
+        "A": 1.0,
+        "Hex": "FFFF6A34"
+      },
+      "Tex_Reflection_Color": {
+        "R": 1.5,
+        "G": 0.509297,
+        "B": 0.022219,
+        "A": 1.0,
+        "Hex": "FFFFBD29"
+      }
+    },
+    "Scalars": {
+      "IceColor_Fre_Base": 1.144772,
+      "IceColor_Fre_Exp": -4.61482,
+      "Tex_Reflection_Stength": 5.60944,
+      "Tex_Norm_Stength": 0.3,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "PlayerMaskMaterial": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

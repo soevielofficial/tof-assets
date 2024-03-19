@@ -1,0 +1,73 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/1_Tex40.1_Tex40",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_34/ter_cloth/T_f_mimicry_fashion_34_03_d.T_f_mimicry_fashion_34_03_d",
+    "1_Tex40": "Hotta/Content/Resources/CubeMap/1_Tex40.1_Tex40",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_34/ter_cloth/T_f_mimicry_fashion_34_03_d.T_f_mimicry_fashion_34_03_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.96706,
+        "G": 0.989879,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFCFEFF"
+      },
+      "SunColorMuti": {
+        "R": 0.994792,
+        "G": 1.0,
+        "B": 0.989583,
+        "A": 1.0,
+        "Hex": "FFFFFFFE"
+      },
+      "CenterBaseColor": {
+        "R": 0.677083,
+        "G": 0.641819,
+        "B": 0.652654,
+        "A": 1.0,
+        "Hex": "FFD7D2D4"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 0.96875,
+        "B": 0.96875,
+        "A": 1.0,
+        "Hex": "FFFFFCFC"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 1.520525,
+      "RimFresnelBase": 0.04,
+      "RimFresnelExp": 0.80094,
+      "SpecSize": 0.422282,
+      "SpecIntensity": 0.300002,
+      "ShadowColorStrength": 4.957313,
+      "Offset": -1.003122,
+      "CenterTransparenct": 0.515082,
+      "RimTransparent": 0.219752,
+      "TransparentMultiply": 1.66304,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

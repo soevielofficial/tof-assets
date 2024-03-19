@@ -1,0 +1,93 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_03_M.f_mimicry_fashion_21_L1_03_M",
+    "f_mimicry_fashion_21_L1_03_M": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_03_M.f_mimicry_fashion_21_L1_03_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_03_D.f_mimicry_fashion_21_L1_03_D",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_03_D.f_mimicry_fashion_21_L1_03_D",
+    "Tex_Noise01": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyA001.T_EnergyA001",
+    "T_EnergyA001": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyA001.T_EnergyA001"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor": {
+        "R": 0.322917,
+        "G": 0.322917,
+        "B": 0.322917,
+        "A": 1.0,
+        "Hex": "FF9A9A9A"
+      },
+      "SunColorMuti": {
+        "R": 1.18125,
+        "G": 1.189998,
+        "B": 1.2,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Color_Base01": {
+        "R": 10.0,
+        "G": 2.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      },
+      "Color_Base02": {
+        "R": 0.0,
+        "G": 0.846873,
+        "B": 0.161481,
+        "A": 1.0,
+        "Hex": "FF00ED70"
+      },
+      "color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 2.0,
+      "SpecSize": 0.123808,
+      "SpecIntensity": 0.476496,
+      "ShadowColorStrength": 1.3,
+      "SunColorStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Use_Music_FX": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.1
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

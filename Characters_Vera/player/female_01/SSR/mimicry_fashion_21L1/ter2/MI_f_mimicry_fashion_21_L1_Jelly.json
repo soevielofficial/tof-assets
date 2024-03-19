@@ -1,0 +1,106 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_04_D.f_mimicry_fashion_21_L1_04_D",
+    "FX_UVPanner_Tex": "Hotta/Content/Resources/Effect/Textures/UI/Common/T_UI_Common_032.T_UI_Common_032",
+    "FX_UVPanner_Mask_Tex": "Hotta/Content/Resources/Effect/Textures/UI/Common/T_UI_Common_032.T_UI_Common_032",
+    "FX_UVPanner_LV2_Tex": "Hotta/Content/Resources/Effect/Textures/UI/Common/T_UI_Common_032.T_UI_Common_032",
+    "FX_UVPanner_LV2_Mask_Tex": "Hotta/Content/Resources/Effect/Textures/UI/Common/T_UI_Common_032.T_UI_Common_032",
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_04_M.f_mimicry_fashion_21_L1_04_M",
+    "f_mimicry_fashion_21_L1_04_M": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_04_M.f_mimicry_fashion_21_L1_04_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_21L1/ter2/f_mimicry_fashion_21_L1_04_D.f_mimicry_fashion_21_L1_04_D",
+    "Matcap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/T_Matcap_Jelly.T_Matcap_Jelly",
+    "T_Matcap_Jelly": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/T_Matcap_Jelly.T_Matcap_Jelly"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "FX_UVPanner_LV2_Tex_Color": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "BaseColorMultipy": {
+        "R": 0.703125,
+        "G": 0.643806,
+        "B": 0.60791,
+        "A": 1.0,
+        "Hex": "FFDBD2CD"
+      },
+      "MatcapColor": {
+        "R": 1.5,
+        "G": 0.179688,
+        "B": 0.460721,
+        "A": 1.0,
+        "Hex": "FFFF76B5"
+      },
+      "SunColorMuti": {
+        "R": 1.18125,
+        "G": 1.189998,
+        "B": 1.2,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "FX_UVPanner_VSpeed": 0.0,
+      "FX_UVPanner_LV2_VSpeed": 0.0,
+      "RampCurve": 0.0,
+      "NormalMapScale": 2.0,
+      "FresnelTransBase": 0.666667,
+      "FresnelTransPow": 0.2,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 0.8,
+      "Offset": 0.5,
+      "Reversal_U": 7.10543,
+      "Reversal_U_LV2": 12.0,
+      "Reversal_V": 6.981246,
+      "Reversal_V_LV2": 10.428421,
+      "X_Shear": 1.541008,
+      "X_Shear_LV2": 4.645238,
+      "X_Slope": 0.0,
+      "X_Slope_LV2": 0.0,
+      "Y_reversal_correct": -2.776849,
+      "Y_reversal_correct_LV2": -4.838063,
+      "Y_Slope": 0.5,
+      "Y_Slope_LV2": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Use_FX_UVPanner_LV2": false,
+      "UseMatcap": true,
+      "UseFresnelTranslucent": true,
+      "UseLightMap": true,
+      "Use_MF_UV_Reversal": true,
+      "Use_MF_UV_Reversal_LV2": true,
+      "X_reversal_LV2": false,
+      "Y_reversal_LV2": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "BLEND_Translucent",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.1
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_BC.T_Food01_BC",
+    "BaseColor": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_BC.T_Food01_BC",
+    "PM_Normals": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_N.T_Food01_N",
+    "NormalMap": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_N.T_Food01_N",
+    "Mask_r(E)_g(M)": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_ORM.T_Food01_ORM",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_ORM.T_Food01_ORM",
+    "T_Food01_ORM": "Hotta/Content/Resources/Map_Vera/ShoppingMall/Textures/T_Food01_ORM.T_Food01_ORM"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RoughnessMax": 0.8,
+      "RoughnessMin": 0.1,
+      "Metalic": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseMETALIC": true,
+      "UseEmissive": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
