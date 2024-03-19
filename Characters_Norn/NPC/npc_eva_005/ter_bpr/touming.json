@@ -1,0 +1,114 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/1_Tex18.1_Tex18",
+    "PM_Diffuse": "Hotta/Content/Resources/CubeMap/1_Tex18.1_Tex18",
+    "1_Tex18": "Hotta/Content/Resources/CubeMap/1_Tex18.1_Tex18"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "gaoliang": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 0.976708,
+        "G": 0.989687,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFDFEFF"
+      },
+      "CenterBaseColor": {
+        "R": 0.895833,
+        "G": 0.895833,
+        "B": 0.895833,
+        "A": 1.0,
+        "Hex": "FFF3F3F3"
+      },
+      "RimBaseColor": {
+        "R": 0.40625,
+        "G": 0.033854,
+        "B": 0.033854,
+        "A": 1.0,
+        "Hex": "FFAB3333"
+      },
+      "RimColor": {
+        "R": 0.53125,
+        "G": 0.091435,
+        "B": 0.059702,
+        "A": 1.0,
+        "Hex": "FFC15545"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 1.0,
+      "RimFresnelBase": 0.785188,
+      "RimFresnelExp": 8.0,
+      "Dissolve": 0.0,
+      "Dissolve_UVs": 2.0,
+      "EmissiveWidth": 0.743645,
+      "OpacityMaskVal": 1.0,
+      "SpecSize": 0.5,
+      "SpecIntensity": 2.0,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 1.0,
+      "SkinShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "FresnelMin": 0.04,
+      "ToonIntensity": 1.0,
+      "CenterTransparenct": 1.0,
+      "RimTransparent": 1.5,
+      "TransparentMultiply": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Norn/Player/male_01/m_hair/m_player_71_hair/ter/T_m_hair_71_01_m.T_m_hair_71_01_m",
+    "T_m_hair_71_01_m": "Hotta/Content/Resources/Characters_Norn/Player/male_01/m_hair/m_player_71_hair/ter/T_m_hair_71_01_m.T_m_hair_71_01_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/Player/male_01/m_hair/m_player_71_hair/ter/T_m_hair_71_01_d.T_m_hair_71_01_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Norn/Player/male_01/m_hair/m_player_71_hair/ter/T_m_hair_71_01_d.T_m_hair_71_01_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFBCBCBC"
+      },
+      "HairColor1": {
+        "R": 0.744792,
+        "G": 0.744792,
+        "B": 0.744792,
+        "A": 1.0,
+        "Hex": "FFE0E0E0"
+      },
+      "HairColor2": {
+        "R": 0.369792,
+        "G": 0.369792,
+        "B": 0.369792,
+        "A": 1.0,
+        "Hex": "FFA4A4A4"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.5,
+      "ShadowColorStrength": 1.2,
+      "Offset": 0.5,
+      "SpecIntensity": 1.0,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

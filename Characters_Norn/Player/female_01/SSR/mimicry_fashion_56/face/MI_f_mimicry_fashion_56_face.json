@@ -1,0 +1,125 @@
+{
+  "Textures": {
+    "FaceLightMask": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46/face/f_mimicry_fashion_46_face_r.f_mimicry_fashion_46_face_r",
+    "f_mimicry_fashion_46_face_r": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46/face/f_mimicry_fashion_46_face_r.f_mimicry_fashion_46_face_r",
+    "FaceShadow": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_56/face/f_mimicry_fashion_56_face_newSVN_LightAddr_2.f_mimicry_fashion_56_face_newSVN_LightAddr_2",
+    "f_mimicry_fashion_56_face_newSVN_LightAddr_2": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_56/face/f_mimicry_fashion_56_face_newSVN_LightAddr_2.f_mimicry_fashion_56_face_newSVN_LightAddr_2",
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46/face/f_mimicry_fashion_46_face_m.f_mimicry_fashion_46_face_m",
+    "f_mimicry_fashion_46_face_m": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46/face/f_mimicry_fashion_46_face_m.f_mimicry_fashion_46_face_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_56/face/f_mimicry_fashion_56_face_d.f_mimicry_fashion_56_face_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_56/face/f_mimicry_fashion_56_face_d.f_mimicry_fashion_56_face_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "NearBlendSkinColor_Shadow": {
+        "R": 1.2,
+        "G": 1.00625,
+        "B": 1.035224,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "FaceMarkColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "FaceMarkOffset": {
+        "R": -0.19341,
+        "G": 0.052511,
+        "B": 0.0,
+        "A": 0.1,
+        "Hex": "19004100"
+      },
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 0.901042,
+        "B": 0.929947,
+        "A": 1.0,
+        "Hex": "FFFFF4F7"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.854913,
+        "B": 0.905784,
+        "A": 1.0,
+        "Hex": "FFFFEEF5"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.395833,
+        "G": 0.313706,
+        "B": 0.232964,
+        "A": 1.0,
+        "Hex": "FFA99885"
+      },
+      "AmbColor": {
+        "R": 0.159179,
+        "G": 0.165567,
+        "B": 0.1875,
+        "A": 1.0,
+        "Hex": "FF6F7178"
+      }
+    },
+    "Scalars": {
+      "UseMirrorFaceMask": 0.0,
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "R_UVOffset": 0.0,
+      "SkinSunColorStrength": 1.5,
+      "SkinShadowColorStrength": 2.0,
+      "Offset": 0.5,
+      "LightIntensity": 1.0,
+      "ToonIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

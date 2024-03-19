@@ -1,0 +1,37 @@
+{
+  "Textures": {
+    "D": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_004/ter_bpr/T_npc_eva_004_body_d.T_npc_eva_004_body_d",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_004/ter_bpr/T_npc_eva_004_body_d.T_npc_eva_004_body_d",
+    "T_npc_eva_004_body_d": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_004/ter_bpr/T_npc_eva_004_body_d.T_npc_eva_004_body_d",
+    "M": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_005/ter_bpr/T_npc_eva_005_body_r.T_npc_eva_005_body_r",
+    "T_npc_eva_005_body_r": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_005/ter_bpr/T_npc_eva_005_body_r.T_npc_eva_005_body_r",
+    "N": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_005/ter_bpr/T_npc_eva_005_body_n.T_npc_eva_005_body_n",
+    "PM_Normals": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_005/ter_bpr/T_npc_eva_005_body_n.T_npc_eva_005_body_n",
+    "T_npc_eva_005_body_n": "Hotta/Content/Resources/Characters_Norn/NPC/npc_eva_005/ter_bpr/T_npc_eva_005_body_n.T_npc_eva_005_body_n"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "d": 1.5,
+      "m": 0.5,
+      "N": 1.0,
+      "r": 1.8,
+      "s": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
