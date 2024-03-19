@@ -1,0 +1,40 @@
+{
+  "Textures": {
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_18/ter_cloth/wb_n.wb_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_18/ter_cloth/wb_n.wb_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_18/ter_cloth/wb_d.wb_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_18/ter_cloth/wb_d.wb_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RampCurve": 2.0,
+      "NormalMapScale": 1.0,
+      "ShadowColorStrength": 1.296235,
+      "SunColorStrength": 1.35,
+      "Offset": 0.433333,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseForLod": true,
+      "UseNormalMap": true,
+      "UseLightMap": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.1
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

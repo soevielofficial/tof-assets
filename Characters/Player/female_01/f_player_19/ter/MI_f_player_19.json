@@ -1,0 +1,157 @@
+{
+  "Textures": {
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_id.f_player_19_id",
+    "ColorMask": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_id.f_player_19_id",
+    "ColorMaskRGBA": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_id.f_player_19_id",
+    "LightMap": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_m.f_player_19_m",
+    "f_player_19_m": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_m.f_player_19_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_n.f_player_19_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_n.f_player_19_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_d.f_player_19_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/f_player_19/ter/f_player_19_d.f_player_19_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color1": {
+        "R": 0.186682,
+        "G": 0.161294,
+        "B": 0.299747,
+        "A": 1.0,
+        "Hex": "FF787095"
+      },
+      "Color2": {
+        "R": 1.729866,
+        "G": 0.508358,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFBD00"
+      },
+      "Color3": {
+        "R": 1.710364,
+        "G": 0.502627,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFBC00"
+      },
+      "Color4": {
+        "R": 2.2,
+        "G": 0.802083,
+        "B": 1.050454,
+        "A": 1.0,
+        "Hex": "FFFFE8FF"
+      },
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.879622,
+        "B": 0.879622,
+        "A": 1.0,
+        "Hex": "FFFFF1F1"
+      },
+      "NearBlendSkinColor_Shadow": {
+        "R": 1.2,
+        "G": 1.00625,
+        "B": 1.035224,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColorNoMask": {
+        "R": 0.807292,
+        "G": 0.662889,
+        "B": 0.521374,
+        "A": 1.0,
+        "Hex": "FFE8D5BF"
+      }
+    },
+    "Scalars": {
+      "RampCurve": 0.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 1.522833,
+      "SpecIntensity": 0.7,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 1.45,
+      "SkinShadowColorStrength": 1.3,
+      "Amb_Strength": 1.0,
+      "SunColorStrength": 1.0,
+      "Offset": 0.5,
+      "Skin_RimExp": 8.0,
+      "Tights_RimExp": 6.365718,
+      "SoftCommon_RimExp": 8.0,
+      "Hard_RimExp": 8.0,
+      "Metal_RimExp": 8.0,
+      "RimSmoothstepmin": 0.35,
+      "RimSmoothstepmax": 0.55,
+      "GlassPower": 53.152214,
+      "TightsSmoothMin": 0.307142,
+      "TightsSmoothMax": 1.078033,
+      "SpeIntensity": 3.028714,
+      "4.RimExp": 8.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseColorMask": true,
+      "UseRGBAMask": true,
+      "UseNormalMap": true,
+      "UseLightMap": true,
+      "UseRampMaskForRimLight": true,
+      "UseTightsHightlight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_027/Tap/f_headwear_027_tap_m.f_headwear_027_tap_m",
+    "f_headwear_027_tap_m": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_027/Tap/f_headwear_027_tap_m.f_headwear_027_tap_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_027/oppo/f_headwear_027_oppo_n.f_headwear_027_oppo_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_027/oppo/f_headwear_027_oppo_n.f_headwear_027_oppo_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_027/Tap/f_headwear_027_tap_d.f_headwear_027_tap_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_027/Tap/f_headwear_027_tap_d.f_headwear_027_tap_d",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap062.MatCap062",
+    "MatCap062": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap062.MatCap062"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor2": {
+        "R": 0.113553,
+        "G": 0.939161,
+        "B": 0.947917,
+        "A": 0.0,
+        "Hex": "5FF9FA"
+      },
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.395833,
+        "G": 0.313706,
+        "B": 0.232964,
+        "A": 1.0,
+        "Hex": "FFA99885"
+      },
+      "AmbColor": {
+        "R": 0.159179,
+        "G": 0.165567,
+        "B": 0.1875,
+        "A": 1.0,
+        "Hex": "FF6F7178"
+      }
+    },
+    "Scalars": {
+      "C_EmissiveIntensity": 0.390477,
+      "NormalMapScale": 1.0,
+      "SpecSize": 1.0,
+      "SpecIntensity": 2.0,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "Offset": 0.5,
+      "LightIntensity": 1.0,
+      "ToonIntensity": 1.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseRampShadowMask": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

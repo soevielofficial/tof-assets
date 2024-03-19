@@ -1,0 +1,65 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/ter/MI_femaleplayer_hair2_m.MI_femaleplayer_hair2_m",
+    "MI_femaleplayer_hair2_m": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/ter/MI_femaleplayer_hair2_m.MI_femaleplayer_hair2_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/ter/MI_femaleplayer_hair2_d.MI_femaleplayer_hair2_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/f_headwear/f_headwear_001/ter/MI_femaleplayer_hair2_d.MI_femaleplayer_hair2_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.421875,
+        "G": 0.0,
+        "B": 0.038088,
+        "A": 1.0,
+        "Hex": "FFAE0037"
+      },
+      "AmbColor": {
+        "R": 0.106244,
+        "G": 0.068984,
+        "B": 0.135417,
+        "A": 1.0,
+        "Hex": "FF5C4A67"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.623809,
+      "SpecIntensity": 0.59165,
+      "Hardness": 0.885714,
+      "Offset": 0.869935,
+      "LightIntensity": 1.0,
+      "ToonIntensity": 1.4,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

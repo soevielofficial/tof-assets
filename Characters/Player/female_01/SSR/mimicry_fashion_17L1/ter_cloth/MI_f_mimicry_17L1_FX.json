@@ -1,0 +1,49 @@
+{
+  "Textures": {
+    "T_Tech_001": "Hotta/Content/Resources/Effect/Textures/Masks/T_Tech_001.T_Tech_001",
+    "T_Tiles019": "Hotta/Content/Resources/Effect/Textures/Tiles/T_Tiles019.T_Tiles019",
+    "T_Mask005a": "Hotta/Content/Resources/Effect/Textures/Masks/T_Mask005a.T_Mask005a"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "Power": 0.3
+    },
+    "Switches": {},
+    "Properties": {
+      "EmissiveColor": {
+        "Expression": null,
+        "OutputIndex": 0,
+        "InputName": "None",
+        "Mask": 0,
+        "MaskR": 0,
+        "MaskG": 0,
+        "MaskB": 0,
+        "MaskA": 0,
+        "ExpressionName": "MaterialExpressionConstant3Vector_0",
+        "UseConstant": false,
+        "Constant": {
+          "B": 0,
+          "G": 0,
+          "R": 0,
+          "A": 0,
+          "Hex": "000000"
+        }
+      },
+      "ShadingModels": {
+        "ShadingModelField": 1
+      },
+      "bUsedWithSkeletalMesh": true,
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "D3E27D1F-41FFD4BA-C5ED328C-54A5AC87"
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

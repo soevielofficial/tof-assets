@@ -1,0 +1,70 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/Player/female_01/f_hair_new/f_hair_035/hat_ter/MI_f_player_52_hat_b_M.MI_f_player_52_hat_b_M",
+    "MI_f_player_52_hat_b_M": "Hotta/Content/Resources/Characters/Player/female_01/f_hair_new/f_hair_035/hat_ter/MI_f_player_52_hat_b_M.MI_f_player_52_hat_b_M",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/f_hair_new/f_hair_035/hat_ter/MI_f_player_52_hat_b_D.MI_f_player_52_hat_b_D",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/f_hair_new/f_hair_035/hat_ter/MI_f_player_52_hat_b_D.MI_f_player_52_hat_b_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.5,
+        "A": 1.0,
+        "Hex": "FFBCBCBC"
+      },
+      "HairColor1": {
+        "R": 0.697917,
+        "G": 0.361843,
+        "B": 0.579469,
+        "A": 1.0,
+        "Hex": "FFDAA2C9"
+      },
+      "HairColor2": {
+        "R": 0.432292,
+        "G": 0.164446,
+        "B": 0.238581,
+        "A": 1.0,
+        "Hex": "FFB07186"
+      },
+      "RimColorNoMask": {
+        "R": 0.078125,
+        "G": 0.052083,
+        "B": 0.026563,
+        "A": 1.0,
+        "Hex": "FF4F402D"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.5,
+      "ShadowColorStrength": 1.2,
+      "Offset": 0.5,
+      "SpecIntensity": 1.0,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
