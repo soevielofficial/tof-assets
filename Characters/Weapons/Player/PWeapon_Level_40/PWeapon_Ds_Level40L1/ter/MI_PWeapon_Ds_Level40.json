@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_40/PWeapon_Ds_Level40L1/ter/PWeapon_Ds_Level40_L1_a_m.PWeapon_Ds_Level40_L1_a_m",
+    "PWeapon_Ds_Level40_L1_a_m": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_40/PWeapon_Ds_Level40L1/ter/PWeapon_Ds_Level40_L1_a_m.PWeapon_Ds_Level40_L1_a_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_40/PWeapon_Ds_Level40L1/ter/PWeapon_Ds_Level40_L1_a_n.PWeapon_Ds_Level40_L1_a_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_40/PWeapon_Ds_Level40L1/ter/PWeapon_Ds_Level40_L1_a_n.PWeapon_Ds_Level40_L1_a_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_40/PWeapon_Ds_Level40L1/ter/PWeapon_Ds_Level40_L1_a_d.PWeapon_Ds_Level40_L1_a_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_40/PWeapon_Ds_Level40L1/ter/PWeapon_Ds_Level40_L1_a_d.PWeapon_Ds_Level40_L1_a_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 0.032664,
+        "G": 0.0,
+        "B": 0.672,
+        "A": 0.0,
+        "Hex": "3200D6"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Dissolve_FresnelColor": {
+        "R": 4.000001,
+        "G": 1.0,
+        "B": 10.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 5.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.114286,
+      "SpecIntensity": 0.345009,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

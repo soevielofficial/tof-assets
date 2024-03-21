@@ -1,0 +1,29 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Weapons/Arrow/Weapon_Arrow_001/ter/T_arrow_001_d.T_arrow_001_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Weapons/Arrow/Weapon_Arrow_001/ter/T_arrow_001_d.T_arrow_001_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "SpecIntensity": 0.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "Textures": {
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap05.Matcap05",
+    "Matcap05": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap05.Matcap05",
+    "LightMap": "Hotta/Content/Resources/Characters/Weapons/Suspension_L1/ter/Weapon_Suspension_L1_m.Weapon_Suspension_L1_m",
+    "Weapon_Suspension_L1_m": "Hotta/Content/Resources/Characters/Weapons/Suspension_L1/ter/Weapon_Suspension_L1_m.Weapon_Suspension_L1_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Weapons/Suspension_L1/ter/Weapon_Suspension_L1_n.Weapon_Suspension_L1_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Weapons/Suspension_L1/ter/Weapon_Suspension_L1_n.Weapon_Suspension_L1_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Weapons/Suspension_L1/ter/Weapon_Suspension_L1_d.Weapon_Suspension_L1_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Weapons/Suspension_L1/ter/Weapon_Suspension_L1_d.Weapon_Suspension_L1_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 2.0,
+        "G": 0.462703,
+        "B": 1.143342,
+        "A": 0.0,
+        "Hex": "FFB5FF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColor": {
+        "R": 0.125,
+        "G": 0.083333,
+        "B": 0.0425,
+        "A": 1.0,
+        "Hex": "FF63513A"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 1.269271,
+      "HardMin": 0.979475,
+      "HardMax": 4.391832,
+      "HardInt": 0.576107,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.114286,
+      "SpecIntensity": 0.669234,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "Offset": 0.461905,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLocalReflectionForHard": true,
+      "UseNormalMap": true,
+      "UseRampShadowMask": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

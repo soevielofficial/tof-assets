@@ -1,0 +1,68 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_30/PWeapon_Ds_Level30/ter/T_PWeapon_Ds_Level30_d.T_PWeapon_Ds_Level30_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_30/PWeapon_Ds_Level30/ter/T_PWeapon_Ds_Level30_d.T_PWeapon_Ds_Level30_d",
+    "LightMap": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_30/PWeapon_Ds_Level30/ter/T_PWeapon_Ds_Level30_m.T_PWeapon_Ds_Level30_m",
+    "T_PWeapon_Ds_Level30_m": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_30/PWeapon_Ds_Level30/ter/T_PWeapon_Ds_Level30_m.T_PWeapon_Ds_Level30_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_30/PWeapon_Ds_Level30/ter/T_PWeapon_Ds_Level30_n.T_PWeapon_Ds_Level30_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Weapons/Player/PWeapon_Level_30/PWeapon_Ds_Level30/ter/T_PWeapon_Ds_Level30_n.T_PWeapon_Ds_Level30_n"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 2.0,
+        "G": 0.158517,
+        "B": 1.525561,
+        "A": 0.0,
+        "Hex": "FF6FFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 1.774941,
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.791181,
+      "SpecSize": 0.466667,
+      "SunColorStrength": 1.438634,
+      "ShadowColorStrength": 1.0,
+      "Hardness": 1.0,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

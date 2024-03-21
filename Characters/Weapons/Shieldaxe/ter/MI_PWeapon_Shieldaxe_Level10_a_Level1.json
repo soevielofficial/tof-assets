@@ -1,0 +1,81 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/Weapons/Shieldaxe/ter/PWeapon_Shieldaxe_Level10_a_Level1_m.PWeapon_Shieldaxe_Level10_a_Level1_m",
+    "PWeapon_Shieldaxe_Level10_a_Level1_m": "Hotta/Content/Resources/Characters/Weapons/Shieldaxe/ter/PWeapon_Shieldaxe_Level10_a_Level1_m.PWeapon_Shieldaxe_Level10_a_Level1_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Weapons/Shieldaxe/ter/PWeapon_Shieldaxe_Level10_a_Level1_d.PWeapon_Shieldaxe_Level10_a_Level1_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Weapons/Shieldaxe/ter/PWeapon_Shieldaxe_Level10_a_Level1_d.PWeapon_Shieldaxe_Level10_a_Level1_d",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065",
+    "MatCap065": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color4": {
+        "R": 2.2,
+        "G": 0.217874,
+        "B": 0.570043,
+        "A": 1.0,
+        "Hex": "FFFF81C7"
+      },
+      "C_EmissiveColor": {
+        "R": 10.0,
+        "G": 8.303141,
+        "B": 0.396308,
+        "A": 1.0,
+        "Hex": "FFFFFFA9"
+      },
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Dissolve_FresnelColor": {
+        "R": 10.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      }
+    },
+    "Scalars": {
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 1.277443,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.142857,
+      "SpecIntensity": 0.01,
+      "MetalMin": -0.685714,
+      "MetalMax": 0.588123,
+      "MetalInt": 6.791933,
+      "ShadowColorStrength": 1.604371,
+      "Amb_Strength": 1.0,
+      "SunColorStrength": 1.355443,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLocalReflectionForMetal": true,
+      "UseRampShadowMask": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
