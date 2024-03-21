@@ -1,0 +1,88 @@
+{
+  "Textures": {
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap07.Matcap07",
+    "Matcap07": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap07.Matcap07",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters_JiuYu/Weapons/Weapon_Dfan_001/Weapon_Dfan_SSR_js.Weapon_Dfan_SSR_js",
+    "HardLayerMask": "Hotta/Content/Resources/Characters_JiuYu/Weapons/Weapon_Dfan_001/Weapon_Dfan_SSR_js.Weapon_Dfan_SSR_js",
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/TexturesCom_JapanParkingGarageA_1K_hdri_sphere.TexturesCom_JapanParkingGarageA_1K_hdri_sphere",
+    "TexturesCom_JapanParkingGarageA_1K_hdri_sphere": "Hotta/Content/Resources/CubeMap/TexturesCom_JapanParkingGarageA_1K_hdri_sphere.TexturesCom_JapanParkingGarageA_1K_hdri_sphere",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Weapons/Weapon_Dfan_001/Weapon_Dfan_SSR_d.Weapon_Dfan_SSR_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Weapons/Weapon_Dfan_001/Weapon_Dfan_SSR_d.Weapon_Dfan_SSR_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.96706,
+        "G": 0.989879,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFCFEFF"
+      },
+      "SunColorMuti": {
+        "R": 0.994792,
+        "G": 1.0,
+        "B": 0.989583,
+        "A": 1.0,
+        "Hex": "FFFFFFFE"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "CenterBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "HardMin": -0.245283,
+      "HardMax": 3.219561,
+      "HardInt": 0.977617,
+      "CubeRimIntensity": 8.058425,
+      "RimFresnelBase": 0.445426,
+      "RimFresnelExp": 1.992683,
+      "SpecSize": 1.0,
+      "SpecIntensity": 0.03,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 0.0,
+      "Offset": 0.5,
+      "CenterTransparenct": 1.0,
+      "RimTransparent": 1.0,
+      "TransparentMultiply": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHardCatmap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
