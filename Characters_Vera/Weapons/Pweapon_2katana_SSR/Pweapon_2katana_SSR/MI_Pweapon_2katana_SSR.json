@@ -1,0 +1,67 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_2katana_SSR/Pweapon_2katana_SSR/Pweapon_2katana_SSR_M.Pweapon_2katana_SSR_M",
+    "Pweapon_2katana_SSR_M": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_2katana_SSR/Pweapon_2katana_SSR/Pweapon_2katana_SSR_M.Pweapon_2katana_SSR_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_2katana_SSR/Pweapon_2katana_SSR/Pweapon_2katana_SSR_N.Pweapon_2katana_SSR_N",
+    "NormalMap": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_2katana_SSR/Pweapon_2katana_SSR/Pweapon_2katana_SSR_N.Pweapon_2katana_SSR_N",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_2katana_SSR/Pweapon_2katana_SSR/Pweapon_2katana_SSR_C.Pweapon_2katana_SSR_C",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_2katana_SSR/Pweapon_2katana_SSR/Pweapon_2katana_SSR_C.Pweapon_2katana_SSR_C"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 0.0,
+        "G": 3.961253,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "00FFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 0.8,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.123809,
+      "SpecIntensity": 0.704712,
+      "ShadowColorStrength": 1.326803,
+      "SunColorStrength": 1.41052,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

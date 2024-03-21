@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_Fan_SSRL3/T_Pweapon_Fan_SSR_L3_m.T_Pweapon_Fan_SSR_L3_m",
+    "T_Pweapon_Fan_SSR_L3_m": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_Fan_SSRL3/T_Pweapon_Fan_SSR_L3_m.T_Pweapon_Fan_SSR_L3_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_Fan_SSRL3/T_Pweapon_Fan_SSR_L3_d.T_Pweapon_Fan_SSR_L3_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/Weapons/Pweapon_Fan_SSRL3/T_Pweapon_Fan_SSR_L3_d.T_Pweapon_Fan_SSR_L3_d",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap03.Matcap03",
+    "Matcap03": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap03.Matcap03"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 0.0,
+        "G": 3.961253,
+        "B": 5.0,
+        "A": 0.0,
+        "Hex": "00FFFF"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 0.0,
+      "SpecIntensity": 0.2,
+      "SpecSize": 1.315207,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "RampCurve_metal": 4.0,
+      "MetalMin": 0.2,
+      "MetalMax": 1.0,
+      "MetalInt": 5.0,
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 0.8,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseRampShadowMask": true,
+      "UseLightMap": true,
+      "UseMetalCatmap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

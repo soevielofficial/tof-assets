@@ -1,0 +1,88 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/Weapons/Weapon_Brush_SSR_L1/ter/Weapon_Brush_SSR_L1_m.Weapon_Brush_SSR_L1_m",
+    "Weapon_Brush_SSR_L1_m": "Hotta/Content/Resources/Characters_Vera/Weapons/Weapon_Brush_SSR_L1/ter/Weapon_Brush_SSR_L1_m.Weapon_Brush_SSR_L1_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/Weapons/Weapon_Brush_SSR_L1/ter/Weapon_Brush_SSR_L1_d.Weapon_Brush_SSR_L1_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/Weapons/Weapon_Brush_SSR_L1/ter/Weapon_Brush_SSR_L1_d.Weapon_Brush_SSR_L1_d",
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap05.Matcap05",
+    "Matcap05": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap05.Matcap05",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap03.Matcap03",
+    "Matcap03": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap03.Matcap03"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColor": {
+        "R": 0.125,
+        "G": 0.083333,
+        "B": 0.0425,
+        "A": 1.0,
+        "Hex": "FF63513A"
+      },
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 2.0,
+        "G": 0.462703,
+        "B": 1.143342,
+        "A": 0.0,
+        "Hex": "FFB5FF"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.116853,
+      "SpecSize": 0.83374,
+      "SunColorStrength": 1.182006,
+      "ShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "HardMin": 0.979475,
+      "HardMax": 4.391832,
+      "HardInt": 0.576107,
+      "RampCurve_metal": 4.0,
+      "MetalMin": 0.2,
+      "MetalMax": 1.0,
+      "MetalInt": 5.0,
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 1.269271,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseRampShadowMask": true,
+      "UseLightMap": true,
+      "UseLocalReflectionForHard": true,
+      "UseMetalCatmap": true,
+      "UseLocalReflectionForMetal": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
