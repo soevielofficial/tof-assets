@@ -1,0 +1,67 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_053/ter/T_npc_shu_053_m.T_npc_shu_053_m",
+    "T_npc_shu_053_m": "Hotta/Content/Resources/Characters/NPC/npc_shu_053/ter/T_npc_shu_053_m.T_npc_shu_053_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/NPC/npc_shu_053/ter/T_npc_shu_053_n.T_npc_shu_053_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_053/ter/T_npc_shu_053_n.T_npc_shu_053_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_053/ter/T_npc_shu_053_d.T_npc_shu_053_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_053/ter/T_npc_shu_053_d.T_npc_shu_053_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.291667,
+        "G": 0.143323,
+        "B": 0.229837,
+        "A": 1.0,
+        "Hex": "FF936A84"
+      },
+      "AmbColor": {
+        "R": 0.149414,
+        "G": 0.21753,
+        "B": 0.421875,
+        "A": 1.0,
+        "Hex": "FF6C80AE"
+      },
+      "RimColorNoMask": {
+        "R": 0.109375,
+        "G": 0.072917,
+        "B": 0.037188,
+        "A": 1.0,
+        "Hex": "FF5D4C36"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.5,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.32381,
+      "SpecIntensity": 0.447877,
+      "ShadowColorStrength": 0.695238,
+      "SunColorStrength": 1.1,
+      "Offset": 0.5,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

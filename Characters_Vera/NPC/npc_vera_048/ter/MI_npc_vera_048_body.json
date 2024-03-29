@@ -1,0 +1,109 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_M.T_npc_vera_048_body_m",
+    "T_npc_vera_048_body_m": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_M.T_npc_vera_048_body_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_D.T_npc_vera_048_body_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_D.T_npc_vera_048_body_d",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_id.T_npc_vera_048_body_id",
+    "ColorMask": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_id.T_npc_vera_048_body_id",
+    "ColorMaskRGBA": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_048/ter/T_npc_vera_048_body_id.T_npc_vera_048_body_id"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.879622,
+        "B": 0.879622,
+        "A": 1.0,
+        "Hex": "FFFFF1F1"
+      },
+      "NearBlendSkinColor_Shadow": {
+        "R": 1.2,
+        "G": 1.00625,
+        "B": 1.035224,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "C_EmissiveColor": {
+        "R": 0.291667,
+        "G": 0.143323,
+        "B": 0.229837,
+        "A": 1.0,
+        "Hex": "FF936A84"
+      },
+      "AmbColor": {
+        "R": 0.149414,
+        "G": 0.21753,
+        "B": 0.421875,
+        "A": 1.0,
+        "Hex": "FF6C80AE"
+      },
+      "RimColorNoMask": {
+        "R": 0.026042,
+        "G": 0.017361,
+        "B": 0.008854,
+        "A": 1.0,
+        "Hex": "FF2C2317"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.05,
+      "SpecSize": 0.3,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 1.5,
+      "SkinShadowColorStrength": 1.6,
+      "Offset": 0.5,
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.5,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseColorMask": true,
+      "UseNormalMap": true,
+      "UseLightMap": true,
+      "UseRGBAMask": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

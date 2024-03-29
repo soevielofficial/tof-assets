@@ -1,0 +1,66 @@
+{
+  "Textures": {
+    "FaceLightMask": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_r.npc_shu_023_face_r",
+    "npc_shu_023_face_r": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_r.npc_shu_023_face_r",
+    "FaceShadow": "Hotta/Content/Resources/Characters/Player/female_01/f_face/ter/SNV/MI_f_player_face_001_newSVN_LightAddr.MI_f_player_face_001_newSVN_LightAddr",
+    "MI_f_player_face_001_newSVN_LightAddr": "Hotta/Content/Resources/Characters/Player/female_01/f_face/ter/SNV/MI_f_player_face_001_newSVN_LightAddr.MI_f_player_face_001_newSVN_LightAddr",
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_m.npc_shu_023_face_m",
+    "npc_shu_023_face_m": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_m.npc_shu_023_face_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_d.npc_shu_023_face_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_d.npc_shu_023_face_d",
+    "Lightmap_NPC_Head_R8": "Hotta/Content/Resources/Characters/NPC/npc_shu_023a/ter/npc_shu_023_face_r.npc_shu_023_face_r"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "FresnelSideColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.05,
+        "G": 0.961819,
+        "B": 1.005534,
+        "A": 1.0,
+        "Hex": "FFFFFBFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.728507,
+        "B": 0.718557,
+        "A": 1.0,
+        "Hex": "FFFFDEDD"
+      }
+    },
+    "Scalars": {
+      "SmoothStepMax": 1.048441,
+      "SmoothStepMin": 0.0,
+      "L_UVOffset": -0.742857,
+      "SkinSunColorStrength": 1.289929,
+      "SkinShadowColorStrength": 1.466615,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "NPCHead_R8": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

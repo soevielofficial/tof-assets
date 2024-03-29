@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Item/Item_scene/NPCProp/table/T_table01_d_LZH.T_table01_d_LZH",
+    "BaseColor": "Hotta/Content/Resources/Characters/Item/Item_scene/NPCProp/table/T_table01_d_LZH.T_table01_d_LZH",
+    "Mask_r(E)_g(M)": "Hotta/Content/Resources/Characters/Item/Item_scene/NPCProp/table/T_table01_m_LZH.T_table01_m_LZH",
+    "T_table01_m_LZH": "Hotta/Content/Resources/Characters/Item/Item_scene/NPCProp/table/T_table01_m_LZH.T_table01_m_LZH",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Item/Item_scene/NPCProp/table/T_table01_n_LZH.T_table01_n_LZH",
+    "Normal": "Hotta/Content/Resources/Characters/Item/Item_scene/NPCProp/table/T_table01_n_LZH.T_table01_n_LZH"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissiveColor": {
+        "R": 0.12068,
+        "G": 6.0,
+        "B": 1.717129,
+        "A": 0.0,
+        "Hex": "61FFFF"
+      }
+    },
+    "Scalars": {
+      "Brightness": 1.0,
+      "ColorBritness": 1.0,
+      "Metalic": 0.7,
+      "NormalStrength": 0.0,
+      "RoughnessMax": 0.8,
+      "RoughnessMin": 0.1,
+      "Saturation": 0.0,
+      "Specular": 0.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "texMix": false,
+      "UseEmissive": true,
+      "UseMetalic": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

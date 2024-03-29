@@ -1,0 +1,97 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_npc_vera_049_d_wuqi_M.T_npc_vera_049_d_wuqi_M",
+    "T_npc_vera_049_d_wuqi_M": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_npc_vera_049_d_wuqi_M.T_npc_vera_049_d_wuqi_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_npc_vera_049_d_wuqi_N.T_npc_vera_049_d_wuqi_N",
+    "NormalMap": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_npc_vera_049_d_wuqi_N.T_npc_vera_049_d_wuqi_N",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_npc_vera_049_d_wuqi_D.T_npc_vera_049_d_wuqi_D",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_npc_vera_049_d_wuqi_D.T_npc_vera_049_d_wuqi_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "C_EmissiveColor": {
+        "R": 0.291667,
+        "G": 0.143323,
+        "B": 0.229837,
+        "A": 1.0,
+        "Hex": "FF936A84"
+      },
+      "AmbColor": {
+        "R": 0.149414,
+        "G": 0.21753,
+        "B": 0.421875,
+        "A": 1.0,
+        "Hex": "FF6C80AE"
+      },
+      "RimColorNoMask": {
+        "R": 0.026042,
+        "G": 0.017361,
+        "B": 0.008854,
+        "A": 1.0,
+        "Hex": "FF2C2317"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.057143,
+      "SpecSize": 0.238095,
+      "SunColorStrength": 1.49973,
+      "ShadowColorStrength": 1.771119,
+      "SkinSunColorStrength": 0.0,
+      "SkinShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.5,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

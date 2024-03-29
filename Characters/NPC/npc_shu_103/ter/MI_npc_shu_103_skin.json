@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_103/ter/npc_shu_103_m1.npc_shu_103_m1",
+    "npc_shu_103_m1": "Hotta/Content/Resources/Characters/NPC/npc_shu_103/ter/npc_shu_103_m1.npc_shu_103_m1",
+    "PM_Normals": "Hotta/Content/Resources/Characters/NPC/npc_shu_103/ter/npc_shu_103_n.npc_shu_103_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_103/ter/npc_shu_103_n.npc_shu_103_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_103/ter/npc_shu_103_d.npc_shu_103_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_103/ter/npc_shu_103_d.npc_shu_103_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.291667,
+        "G": 0.143323,
+        "B": 0.229837,
+        "A": 1.0,
+        "Hex": "FF936A84"
+      },
+      "AmbColor": {
+        "R": 0.149414,
+        "G": 0.21753,
+        "B": 0.421875,
+        "A": 1.0,
+        "Hex": "FF6C80AE"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.5,
+      "NormalMapScale": 1.220308,
+      "SpecSize": 0.32381,
+      "SpecIntensity": 0.895496,
+      "ShadowColorStrength": 1.2,
+      "SunColorStrength": 1.424338,
+      "Hardness": 1.0,
+      "Offset": 0.5,
+      "InLineDensity": 0.0,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_019/ter1/T_npc_shu_019_face_m.T_npc_shu_019_face_m",
+    "T_npc_shu_019_face_m": "Hotta/Content/Resources/Characters/NPC/npc_shu_019/ter1/T_npc_shu_019_face_m.T_npc_shu_019_face_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_019/ter1/T_npc_shu_019_face_d.T_npc_shu_019_face_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_019/ter1/T_npc_shu_019_face_d.T_npc_shu_019_face_d",
+    "Lightmap_NPC_Head_R8": "Hotta/Content/Resources/Characters/NPC/npc_shu_019/ter1/T_npc_shu_019_face_r.T_npc_shu_019_face_r",
+    "T_npc_shu_019_face_r": "Hotta/Content/Resources/Characters/NPC/npc_shu_019/ter1/T_npc_shu_019_face_r.T_npc_shu_019_face_r"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "FresnelSideColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.825385,
+        "B": 0.875889,
+        "A": 1.0,
+        "Hex": "FFFFEBF1"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "SmoothStepMax": 1.0,
+      "SmoothStepMin": 0.0,
+      "SpecIntensity": 0.2,
+      "ShadowColorStrength": 1.386479,
+      "SkinSunColorStrength": 1.484275,
+      "SkinShadowColorStrength": 1.289256,
+      "SunColorStrength": 1.236762,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "NPCHead_R8": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

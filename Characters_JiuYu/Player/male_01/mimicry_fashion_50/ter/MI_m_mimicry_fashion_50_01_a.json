@@ -1,0 +1,152 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_m_mimicry_fashion_50_01_m.T_m_mimicry_fashion_50_01_m",
+    "T_m_mimicry_fashion_50_01_m": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_m_mimicry_fashion_50_01_m.T_m_mimicry_fashion_50_01_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_m_mimicry_fashion_50_01_d_2.T_m_mimicry_fashion_50_01_d_2",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/male_01/mimicry_fashion_50/ter/T_m_mimicry_fashion_50_01_d_2.T_m_mimicry_fashion_50_01_d_2",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters/Player/male_01/m_player_17/ter/T_m_player_017_id.T_m_player_017_id",
+    "ColorMask": "Hotta/Content/Resources/Characters/Player/male_01/m_player_17/ter/T_m_player_017_id.T_m_player_017_id",
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap07.Matcap07",
+    "Matcap07": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap07.Matcap07",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065",
+    "MatCap065": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "NearBlendSkinColor_Shadow": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Color1": {
+        "R": 0.183548,
+        "G": 0.451359,
+        "B": 1.1,
+        "A": 1.0,
+        "Hex": "FF77B3FF"
+      },
+      "Color2": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Color3": {
+        "R": 1.8,
+        "G": 0.398884,
+        "B": 0.761402,
+        "A": 1.0,
+        "Hex": "FFFFAAE3"
+      },
+      "Color4": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "C_EmissiveColor2": {
+        "R": 0.365901,
+        "G": 1.172217,
+        "B": 3.0,
+        "A": 0.0,
+        "Hex": "A3FFFF"
+      },
+      "AmbColor": {
+        "R": 0.159179,
+        "G": 0.165567,
+        "B": 0.1875,
+        "A": 1.0,
+        "Hex": "FF6F7178"
+      },
+      "RimColorNoMask": {
+        "R": 0.046875,
+        "G": 0.03125,
+        "B": 0.015937,
+        "A": 1.0,
+        "Hex": "FF3D3122"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.05,
+      "SpecSize": 1.9,
+      "SunColorStrength": 1.2,
+      "ShadowColorStrength": 1.35,
+      "SkinSunColorStrength": 1.0,
+      "SkinShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "Rim_WidthFollowCamearOffset": 0.2,
+      "RimGradientRange": 1300.0,
+      "RimSmoothstepmin": 0.35,
+      "RimSmoothstepmax": 0.5,
+      "RimShadingBias": 5.0,
+      "RampCurve_Hard": 3.0,
+      "HardMin": 0.1,
+      "HardMax": 2.0,
+      "HardInt": 1.0,
+      "RampCurve_metal": 4.0,
+      "MetalMin": 0.2,
+      "MetalMax": 0.5,
+      "MetalInt": 15.0,
+      "RampCurve_Tights": 1.0,
+      "SilkColorMin": 0.15,
+      "SilkColoeMax": 1.8,
+      "RampCurve_Skin": 0.0,
+      "C_EmissiveIntensity": 5.0,
+      "4.RimExp": 8.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseColorMask": true,
+      "UseRampShadowMask": true,
+      "UseRimLight": true,
+      "UseLightMap": true,
+      "UseRGBAMask": true,
+      "UseLocalReflectionForHard": true,
+      "UseLocalReflectionForMetal": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_027/ter_a/T_npc_vera_027_a_face_m.T_npc_vera_027_a_face_m",
+    "T_npc_vera_027_a_face_m": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_027/ter_a/T_npc_vera_027_a_face_m.T_npc_vera_027_a_face_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_027/ter_a/T_npc_vera_027_a_face_d.T_npc_vera_027_a_face_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_027/ter_a/T_npc_vera_027_a_face_d.T_npc_vera_027_a_face_d",
+    "Lightmap_NPC_Head_R8": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_027/ter_a/T_npc_vera_027_a_face_r.T_npc_vera_027_a_face_r",
+    "T_npc_vera_027_a_face_r": "Hotta/Content/Resources/Characters_Vera/NPC/npc_vera_027/ter_a/T_npc_vera_027_a_face_r.T_npc_vera_027_a_face_r"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "AmbColor": {
+        "R": 0.030666,
+        "G": 0.041217,
+        "B": 0.05,
+        "A": 1.0,
+        "Hex": "FF31393F"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "SpecIntensity": 0.1,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "NPCHead_R8": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_307_new/ter/npc_shu_307_head_m.npc_shu_307_head_m",
+    "npc_shu_307_head_m": "Hotta/Content/Resources/Characters/NPC/npc_shu_307_new/ter/npc_shu_307_head_m.npc_shu_307_head_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_307_new/ter/npc_shu_307_head_d.npc_shu_307_head_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_307_new/ter/npc_shu_307_head_d.npc_shu_307_head_d",
+    "Lightmap_NPC_Head_R8": "Hotta/Content/Resources/Characters/NPC/npc_shu_307_new/ter/npc_shu_307_head_r.npc_shu_307_head_r",
+    "npc_shu_307_head_r": "Hotta/Content/Resources/Characters/NPC/npc_shu_307_new/ter/npc_shu_307_head_r.npc_shu_307_head_r"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "FresnelSideColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.84375,
+        "B": 0.84375,
+        "A": 1.0,
+        "Hex": "FFFFEDED"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.510417,
+        "G": 0.351186,
+        "B": 0.315425,
+        "A": 1.0,
+        "Hex": "FFBDA098"
+      },
+      "AmbColor": {
+        "R": 0.065924,
+        "G": 0.048618,
+        "B": 0.15625,
+        "A": 1.0,
+        "Hex": "FF483E6E"
+      }
+    },
+    "Scalars": {
+      "SmoothStepMax": 1.058332,
+      "SpecSize": 1.0,
+      "SpecIntensity": 1.16278,
+      "ShadowColorStrength": 1.108411,
+      "SunColorStrength": 1.30416,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "NPCHead_R8": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

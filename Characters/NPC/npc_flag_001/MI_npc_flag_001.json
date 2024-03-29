@@ -1,0 +1,31 @@
+{
+  "Textures": {
+    "d": "Hotta/Content/Resources/Characters/NPC/npc_flag_001/npc_flag_001_d.npc_flag_001_d",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_flag_001/npc_flag_001_d.npc_flag_001_d",
+    "npc_flag_001_d": "Hotta/Content/Resources/Characters/NPC/npc_flag_001/npc_flag_001_d.npc_flag_001_d",
+    "N": "Hotta/Content/Resources/Characters/NPC/npc_flag_001/npc_flag_001_n.npc_flag_001_n",
+    "PM_Normals": "Hotta/Content/Resources/Characters/NPC/npc_flag_001/npc_flag_001_n.npc_flag_001_n",
+    "npc_flag_001_n": "Hotta/Content/Resources/Characters/NPC/npc_flag_001/npc_flag_001_n.npc_flag_001_n"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

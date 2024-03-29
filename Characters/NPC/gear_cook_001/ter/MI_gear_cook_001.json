@@ -1,0 +1,57 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/gear_cook_001/ter/gear_cook_001_M.gear_cook_001_M",
+    "gear_cook_001_M": "Hotta/Content/Resources/Characters/NPC/gear_cook_001/ter/gear_cook_001_M.gear_cook_001_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters/NPC/gear_cook_001/ter/gear_cook_001_N.gear_cook_001_N",
+    "NormalMap": "Hotta/Content/Resources/Characters/NPC/gear_cook_001/ter/gear_cook_001_N.gear_cook_001_N",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/gear_cook_001/ter/gear_cook_001_D.gear_cook_001_D",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/gear_cook_001/ter/gear_cook_001_D.gear_cook_001_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor2": {
+        "R": 1.41572,
+        "G": 4.023691,
+        "B": 6.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecSize": 1.571441,
+      "SpecIntensity": 1.267311,
+      "ShadowColorStrength": 1.016374,
+      "SunColorStrength": 1.315143,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

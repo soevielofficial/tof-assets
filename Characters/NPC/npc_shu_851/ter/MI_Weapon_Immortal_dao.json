@@ -1,0 +1,80 @@
+{
+  "Textures": {
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap08.Matcap08",
+    "Matcap08": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap08.Matcap08",
+    "LightMap": "Hotta/Content/Resources/Characters/Weapons/Immortal/ter/Weapon_Immortal_001_M.Weapon_Immortal_001_M",
+    "Weapon_Immortal_001_M": "Hotta/Content/Resources/Characters/Weapons/Immortal/ter/Weapon_Immortal_001_M.Weapon_Immortal_001_M",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Weapons/Immortal/ter/Weapon_Immortal_001_N.Weapon_Immortal_001_N",
+    "NormalMap": "Hotta/Content/Resources/Characters/Weapons/Immortal/ter/Weapon_Immortal_001_N.Weapon_Immortal_001_N",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Weapons/Immortal/ter/Weapon_Immortal_001_D.Weapon_Immortal_001_D",
+    "BaseColor": "Hotta/Content/Resources/Characters/Weapons/Immortal/ter/Weapon_Immortal_001_D.Weapon_Immortal_001_D",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065",
+    "MatCap065": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "C_EmissiveColor2": {
+        "R": 0.0,
+        "G": 0.851554,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "00EEFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.0,
+      "C_EmissiveIntensity": 1.228154,
+      "HardMin": 0.644759,
+      "HardMax": 5.0,
+      "HardInt": 1.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 1.0,
+      "SpecIntensity": 0.1,
+      "MetalMin": 1.0,
+      "MetalMax": 2.0,
+      "MetalInt": 8.0,
+      "ShadowColorStrength": 0.809524,
+      "SunColorStrength": 1.0,
+      "Offset": 0.202801,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLocalReflectionForHard": true,
+      "UseNormalMap": true,
+      "UseLocalReflectionForMetal": true,
+      "UseRampShadowMask": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

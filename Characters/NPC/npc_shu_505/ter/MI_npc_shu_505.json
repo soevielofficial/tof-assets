@@ -1,0 +1,97 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_505/ter/npc_shu_505_m.npc_shu_505_m",
+    "npc_shu_505_m": "Hotta/Content/Resources/Characters/NPC/npc_shu_505/ter/npc_shu_505_m.npc_shu_505_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/NPC/npc_shu_505/ter/npc_shu_505_n.npc_shu_505_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_505/ter/npc_shu_505_n.npc_shu_505_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_505/ter/npc_shu_505_d.npc_shu_505_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_505/ter/npc_shu_505_d.npc_shu_505_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "C_EmissiveColor": {
+        "R": 0.291667,
+        "G": 0.143323,
+        "B": 0.229837,
+        "A": 1.0,
+        "Hex": "FF936A84"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "AmbColor": {
+        "R": 0.149414,
+        "G": 0.21753,
+        "B": 0.421875,
+        "A": 1.0,
+        "Hex": "FF6C80AE"
+      },
+      "RimColorNoMask": {
+        "R": 0.145833,
+        "G": 0.097222,
+        "B": 0.049583,
+        "A": 1.0,
+        "Hex": "FF6B583F"
+      }
+    },
+    "Scalars": {
+      "BlinkHardness": 0.3,
+      "BlinkSpeed": 0.5,
+      "NormalMapScale": 1.0,
+      "SpecSize": 1.0,
+      "SpecIntensity": 0.504762,
+      "ShadowColorStrength": 1.196479,
+      "SkinSunColorStrength": 0.0,
+      "SkinShadowColorStrength": 1.0,
+      "SunColorStrength": 1.588176,
+      "Offset": 0.5,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

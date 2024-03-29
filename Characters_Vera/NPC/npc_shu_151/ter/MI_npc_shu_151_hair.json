@@ -1,0 +1,77 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/NPC/npc_shu_151/ter/T_npc_shu_151_hair_m.T_npc_shu_151_hair_m",
+    "T_npc_shu_151_hair_m": "Hotta/Content/Resources/Characters_Vera/NPC/npc_shu_151/ter/T_npc_shu_151_hair_m.T_npc_shu_151_hair_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/NPC/npc_shu_151/ter/T_npc_shu_151_hair_d.T_npc_shu_151_hair_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/NPC/npc_shu_151/ter/T_npc_shu_151_hair_d.T_npc_shu_151_hair_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "AlphaLerpColor": {
+        "R": 0.958333,
+        "G": 0.87569,
+        "B": 0.654723,
+        "A": 1.0,
+        "Hex": "FFFBF1D4"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColorNoMask": {
+        "R": 0.2,
+        "G": 0.133333,
+        "B": 0.068,
+        "A": 1.0,
+        "Hex": "FF7C664A"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SpecIntensity": 0.5,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.0,
+      "Offset": 0.5,
+      "BlendCenter": 0.195238,
+      "BlendDistance": 0.6,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

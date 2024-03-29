@@ -1,0 +1,64 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_028A/ter/T_npc_shu_028_a_head_Light.T_npc_shu_028_a_head_Light",
+    "T_npc_shu_028_a_head_Light": "Hotta/Content/Resources/Characters/NPC/npc_shu_028A/ter/T_npc_shu_028_a_head_Light.T_npc_shu_028_a_head_Light",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_028A/ter/T_npc_shu_028_a_head_d_2.T_npc_shu_028_a_head_d_2",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_028A/ter/T_npc_shu_028_a_head_d_2.T_npc_shu_028_a_head_d_2",
+    "Lightmap_NPC_Head_R8": "Hotta/Content/Resources/Characters/NPC/npc_shu_028A/ter/T_npc_shu_028_a_r.T_npc_shu_028_a_r",
+    "T_npc_shu_028_a_r": "Hotta/Content/Resources/Characters/NPC/npc_shu_028A/ter/T_npc_shu_028_a_r.T_npc_shu_028_a_r"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "FresnelSideColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.829489,
+        "B": 0.807292,
+        "A": 1.0,
+        "Hex": "FFFFEBE8"
+      }
+    },
+    "Scalars": {
+      "SmoothStepMax": 1.0475,
+      "SmoothStepMin": 0.0,
+      "SpecSize": 1.0,
+      "SpecIntensity": 0.156447,
+      "ShadowColorStrength": 1.213717,
+      "SkinSunColorStrength": 1.0,
+      "SunColorStrength": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "NPCHead_R8": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

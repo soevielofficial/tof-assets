@@ -1,0 +1,61 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_126/ter/T_npc_shu_126_hair_m.T_npc_shu_126_hair_m",
+    "T_npc_shu_126_hair_m": "Hotta/Content/Resources/Characters/NPC/npc_shu_126/ter/T_npc_shu_126_hair_m.T_npc_shu_126_hair_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_126/ter/T_npc_shu_126_hair_d.T_npc_shu_126_hair_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_126/ter/T_npc_shu_126_hair_d.T_npc_shu_126_hair_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 0.838381,
+      "SpecIntensity": 1.960582,
+      "ShadowColorStrength": 1.087627,
+      "Amb_Strength": 1.0,
+      "SunColorStrength": 1.337561,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/NPC/npc_shu_323/ter/npc_shu_323_m2.npc_shu_323_m2",
+    "npc_shu_323_m2": "Hotta/Content/Resources/Characters/NPC/npc_shu_323/ter/npc_shu_323_m2.npc_shu_323_m2",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/NPC/npc_shu_323/ter/npc_shu_323_d2.npc_shu_323_d2",
+    "BaseColor": "Hotta/Content/Resources/Characters/NPC/npc_shu_323/ter/npc_shu_323_d2.npc_shu_323_d2"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color4": {
+        "R": 2.2,
+        "G": 0.217874,
+        "B": 0.570043,
+        "A": 1.0,
+        "Hex": "FFFF81C7"
+      },
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColor": {
+        "R": 0.114583,
+        "G": 0.076389,
+        "B": 0.038958,
+        "A": 1.0,
+        "Hex": "FF5F4E37"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.838381,
+      "SpecIntensity": 1.960582,
+      "ShadowColorStrength": 0.82473,
+      "Amb_Strength": 1.0,
+      "SunColorStrength": 1.034469,
+      "Offset": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseNormalMap": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

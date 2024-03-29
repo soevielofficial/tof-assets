@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/White1x1.White1x1",
+    "T_SkyLight_Tex2": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "BaseColor": "Hotta/Content/Resources/Characters/White1x1.White1x1",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/f_player_11/ter/T_f_player_011_n.T_f_player_011_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/f_player_11/ter/T_f_player_011_n.T_f_player_011_n"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.984375,
+        "G": 0.986794,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFEFEFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "CenterBaseColor": {
+        "R": 0.045492,
+        "G": 0.067708,
+        "B": 0.066148,
+        "A": 1.0,
+        "Hex": "FF3C4949"
+      },
+      "RimBaseColor": {
+        "R": 0.125,
+        "G": 0.010676,
+        "B": 0.111413,
+        "A": 1.0,
+        "Hex": "FF631A5E"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 20.0,
+      "RimFresnelBase": 0.05,
+      "RimFresnelExp": 30.0,
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.419048,
+      "SpecSize": 0.05,
+      "SunColorStrength": 1.0,
+      "CenterTransparenct": 0.95,
+      "RimTransparent": 1.1,
+      "TransparentMultiply": 0.9,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

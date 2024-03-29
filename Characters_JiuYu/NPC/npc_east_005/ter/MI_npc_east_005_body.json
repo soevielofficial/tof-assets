@@ -1,0 +1,89 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/NPC/npc_east_005/ter/T_npc_east_005_body_m.T_npc_east_005_body_m",
+    "T_npc_east_005_body_m": "Hotta/Content/Resources/Characters_JiuYu/NPC/npc_east_005/ter/T_npc_east_005_body_m.T_npc_east_005_body_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/NPC/npc_east_005/ter/T_npc_east_005_body_d.T_npc_east_005_body_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/NPC/npc_east_005/ter/T_npc_east_005_body_d.T_npc_east_005_body_d",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap04.Matcap04",
+    "Matcap04": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/Matcap04.Matcap04"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "AmbColor": {
+        "R": 0.030666,
+        "G": 0.041217,
+        "B": 0.05,
+        "A": 1.0,
+        "Hex": "FF31393F"
+      },
+      "RimColorNoMask": {
+        "R": 0.51171,
+        "G": 0.515625,
+        "B": 0.504883,
+        "A": 1.0,
+        "Hex": "FFBEBEBD"
+      }
+    },
+    "Scalars": {
+      "SpecIntensity": 0.02,
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "Offset": 0.5,
+      "Rim_WidthFollowCamearOffset": -0.1,
+      "RampCurve_Hard": 3.0,
+      "RampCurve_SoftCommon": 2.0,
+      "RampCurve_metal": 4.0,
+      "MetalMin": 0.2,
+      "MetalMax": 1.0,
+      "MetalInt": 5.0,
+      "RampCurve_Tights": 1.0,
+      "RampCurve_Skin": 0.0,
+      "LightIntensity": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "MetalSaturateColor": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
