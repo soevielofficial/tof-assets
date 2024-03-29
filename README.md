@@ -35,7 +35,7 @@ We love your feedback! We want to make contributing to this project as easy and 
 - Submitting a fix.
 - Becoming a maintainer.
 
-Pull requests are the best way to propose changes to the codebase. We actively welcome your pull requests:
+Pull requests are the best way to propose changes. We actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `main`.
 2. Make sure everything correct.
