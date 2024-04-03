@@ -24,7 +24,7 @@ Repository contains assets from the game Tower of Fantasy.
 
 ## Containing
 - Avatar
-- Character
+- Simulacra
 - Monster
 - NPC
 - Outfit
