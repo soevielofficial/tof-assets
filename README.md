@@ -29,9 +29,3 @@ Repository contains assets from the game Tower of Fantasy.
 - NPC
 - Outfit
 - Weapon
-
-## Contributing
-We love your feedback! We want to make contributing to this project as easy and transparent as possible, whether it's:
-
-- Submitting a fix.
-- Becoming a maintainer.
