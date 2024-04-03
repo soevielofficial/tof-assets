@@ -29,3 +29,5 @@ Repository contains assets from the game Tower of Fantasy.
 - NPC
 - Outfit
 - Weapon
+
+Read [repository wiki](https://github.com/soevielofficial/tof-assets/wiki) for assets information.
