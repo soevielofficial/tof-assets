@@ -1,0 +1,45 @@
+{
+  "Textures": {
+    "NoiseTexture": "Hotta/Content/Resources/CoreMaterials/MasterMaterialsTextures/T_ShellFur_Noise.T_ShellFur_Noise",
+    "T_ShellFur_Noise": "Hotta/Content/Resources/CoreMaterials/MasterMaterialsTextures/T_ShellFur_Noise.T_ShellFur_Noise",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_18/ter_cloth/wb_n.wb_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_18/ter_cloth/wb_n.wb_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_68_L2/ter/f_mimicry_fashion_68_L2_d_b.f_mimicry_fashion_68_L2_d_b",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_68_L2/ter/f_mimicry_fashion_68_L2_d_b.f_mimicry_fashion_68_L2_d_b"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {
+      "SunColorStrength": 2.960021,
+      "ShadowColorStrength": 3.094406,
+      "Offset": 0.157142,
+      "PassDistance": 1.0,
+      "PassUVOffset": 0.1,
+      "Tilling": 10.0,
+      "RampCurve": 2.0,
+      "NormalMapScale": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": false,
+      "UseForLod": true,
+      "UseNormalMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.1
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
