@@ -20,7 +20,7 @@
 Repository contains assets from the game Tower of Fantasy.
 
 ## Current Version
-- 3.7 Game Version
+- 3.8 Game Version
 
 ## Containing
 - Avatar
