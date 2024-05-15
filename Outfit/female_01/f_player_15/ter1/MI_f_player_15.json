@@ -1,0 +1,131 @@
+{
+  "Textures": {
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_ID.f_player_015_ID",
+    "ColorMask": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_ID.f_player_015_ID",
+    "ColorMaskRGBA": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_ID.f_player_015_ID",
+    "LightMap": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_m.f_player_015_m",
+    "f_player_015_m": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_m.f_player_015_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_n.f_player_015_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_n.f_player_015_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_a_d.f_player_015_a_d",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/f_player_15/ter1/f_player_015_a_d.f_player_015_a_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Color1": {
+        "R": 2.0,
+        "G": 0.658329,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFD400"
+      },
+      "Color2": {
+        "R": 0.176262,
+        "G": 0.168399,
+        "B": 0.493559,
+        "A": 1.0,
+        "Hex": "FF7472BB"
+      },
+      "Color3": {
+        "R": 1.982183,
+        "G": 0.0,
+        "B": 0.033036,
+        "A": 1.0,
+        "Hex": "FFFF0033"
+      },
+      "Color4": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.894905,
+        "B": 0.884944,
+        "A": 1.0,
+        "Hex": "FFFFF3F2"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.879622,
+        "B": 0.879622,
+        "A": 1.0,
+        "Hex": "FFFFF1F1"
+      },
+      "NearBlendSkinColor_Shadow": {
+        "R": 1.2,
+        "G": 1.00625,
+        "B": 1.035224,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColorNoMask": {
+        "R": 0.390625,
+        "G": 0.324864,
+        "B": 0.260417,
+        "A": 1.0,
+        "Hex": "FFA89A8C"
+      }
+    },
+    "Scalars": {
+      "RampCurve": 0.0,
+      "NormalMapScale": 0.5,
+      "SpecSize": 0.235715,
+      "SpecIntensity": 1.088545,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 1.3,
+      "SkinShadowColorStrength": 1.3,
+      "Amb_Strength": 1.0,
+      "SunColorStrength": 1.35,
+      "Offset": 0.5,
+      "RimSmoothstepmin": 0.066908,
+      "RimSmoothstepmax": 0.216666,
+      "4.RimExp": 7.41325,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseColorMask": true,
+      "UseRGBAMask": true,
+      "UseLightMap": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
