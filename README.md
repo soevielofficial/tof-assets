@@ -17,7 +17,7 @@
 </p>
 
 ## About 
-Repository contains assets from the game Tower of Fantasy.
+Repository containing assets from the game Tower of Fantasy.
 
 ## Current Version
 - 3.8 Game Version
@@ -26,8 +26,6 @@ Repository contains assets from the game Tower of Fantasy.
 - Avatar
 - Avatar Frame
 - Simulacra
-- Monster
-- NPC
 - Outfit
 - Weapon
 
