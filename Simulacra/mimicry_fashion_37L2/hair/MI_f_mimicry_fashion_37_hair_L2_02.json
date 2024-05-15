@@ -1,0 +1,71 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37L2/hair/T_f_mimicry_fashion_37_hair_L2_02_m.T_f_mimicry_fashion_37_hair_L2_02_m",
+    "T_f_mimicry_fashion_37_hair_L2_02_m": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37L2/hair/T_f_mimicry_fashion_37_hair_L2_02_m.T_f_mimicry_fashion_37_hair_L2_02_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37L2/hair/T_f_mimicry_fashion_37_hair_L2_02_d.T_f_mimicry_fashion_37_hair_L2_02_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37L2/hair/T_f_mimicry_fashion_37_hair_L2_02_d.T_f_mimicry_fashion_37_hair_L2_02_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.942708,
+        "G": 0.903425,
+        "B": 0.916719,
+        "A": 1.0,
+        "Hex": "FFF9F4F6"
+      },
+      "HairColor1": {
+        "R": 0.072917,
+        "G": 0.066461,
+        "B": 0.066461,
+        "A": 1.0,
+        "Hex": "FF4C4949"
+      },
+      "HairColor2": {
+        "R": 0.010417,
+        "G": 0.010417,
+        "B": 0.010417,
+        "A": 1.0,
+        "Hex": "FF1A1A1A"
+      },
+      "RimColorNoMask": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.4,
+      "ShadowColorStrength": 1.5,
+      "Offset": 0.5,
+      "SpecIntensity": 0.08,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "UVStep": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

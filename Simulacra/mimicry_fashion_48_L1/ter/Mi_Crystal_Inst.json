@@ -1,0 +1,91 @@
+{
+  "Textures": {
+    "Texture_Height": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_48_L1/ter/T_Ice_2_roughness.T_Ice_2_roughness",
+    "T_Ice_2_roughness": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_48_L1/ter/T_Ice_2_roughness.T_Ice_2_roughness",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_48_L1/ter/T_Ice_5_basecolor.T_Ice_5_basecolor",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_48_L1/ter/f_mimicry_fashion_48L1_1_d.f_mimicry_fashion_48L1_1_d",
+    "Texture_1": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_48_L1/ter/T_Ice_5_basecolor.T_Ice_5_basecolor",
+    "T_Ice_5_basecolor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_48_L1/ter/T_Ice_5_basecolor.T_Ice_5_basecolor",
+    "Texture_2": "Hotta/Content/Resources/CoreMaterials/MasterMaterialsTextures/CrystalTextures/T_Space_3.T_Space_3",
+    "T_Space_3": "Hotta/Content/Resources/CoreMaterials/MasterMaterialsTextures/CrystalTextures/T_Space_3.T_Space_3"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Speed_Height": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "Tile_Height": {
+        "R": 40.0,
+        "G": 40.0,
+        "B": 40.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Color_1": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "000000"
+      },
+      "Color_2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Speed_1": {
+        "R": 0.2,
+        "G": -0.04,
+        "B": 0.5,
+        "A": 0.0,
+        "Hex": "7C00BC"
+      },
+      "Tile_1": {
+        "R": 10.0,
+        "G": 10.0,
+        "B": 5.0,
+        "A": 5.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "Height_Amount": 4.0,
+      "BaseColorEmissive": 1.0,
+      "LightFlickerSpeed": 1.0,
+      "Master_Emission": 1.0,
+      "Master_Noise_Speed": 1.0,
+      "Metalic": 0.0,
+      "Height_1": 0.1,
+      "Height_2": 1.0,
+      "Texture_Mult_1": 3.0,
+      "Texture_Mult_2": 5.0,
+      "Texture_PWR_1": 2.0,
+      "Texture_PWR_2": 2.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseFlicker": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

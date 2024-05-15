@@ -1,0 +1,137 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters/Player/male_01/ssr/mimicry_fashion_09/ter_cloth/m_mimicry_fashion_9_body_m.m_mimicry_fashion_9_body_m",
+    "m_mimicry_fashion_9_body_m": "Hotta/Content/Resources/Characters/Player/male_01/ssr/mimicry_fashion_09/ter_cloth/m_mimicry_fashion_9_body_m.m_mimicry_fashion_9_body_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/male_01/ssr/mimicry_fashion_09/ter_cloth/m_mimicry_fashion_9_body_bc.m_mimicry_fashion_9_body_bc",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/male_01/ssr/mimicry_fashion_09/ter_cloth/m_mimicry_fashion_9_body_bc.m_mimicry_fashion_9_body_bc",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters/Player/male_01/ssr/mimicry_fashion_09/ter_cloth/m_mimicry_fashion_9_body_id.m_mimicry_fashion_9_body_id",
+    "ColorMask": "Hotta/Content/Resources/Characters/Player/male_01/m_player_17/ter/T_m_player_017_id.T_m_player_017_id",
+    "ColorMaskRGBA": "Hotta/Content/Resources/Characters/Player/male_01/ssr/mimicry_fashion_09/ter_cloth/m_mimicry_fashion_9_body_id.m_mimicry_fashion_9_body_id",
+    "MetalCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065",
+    "MatCap065": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap065.MatCap065"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinSunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkinShadowColorMuti": {
+        "R": 1.0,
+        "G": 0.828125,
+        "B": 0.828125,
+        "A": 1.0,
+        "Hex": "FFFFEBEB"
+      },
+      "Color1": {
+        "R": 0.183548,
+        "G": 0.451359,
+        "B": 1.1,
+        "A": 1.0,
+        "Hex": "FF77B3FF"
+      },
+      "Color2": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Color3": {
+        "R": 1.8,
+        "G": 0.398884,
+        "B": 0.761402,
+        "A": 1.0,
+        "Hex": "FFFFAAE3"
+      },
+      "Color4": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.395833,
+        "G": 0.313706,
+        "B": 0.232964,
+        "A": 1.0,
+        "Hex": "FFA99885"
+      },
+      "AmbColor": {
+        "R": 0.159179,
+        "G": 0.165567,
+        "B": 0.1875,
+        "A": 1.0,
+        "Hex": "FF6F7178"
+      },
+      "RimColorNoMask": {
+        "R": 0.046875,
+        "G": 0.03125,
+        "B": 0.015937,
+        "A": 1.0,
+        "Hex": "FF3D3122"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 1.0,
+      "SpecIntensity": 0.033246,
+      "SpecSize": 1.967186,
+      "SunColorStrength": 1.0,
+      "ShadowColorStrength": 1.0,
+      "SkinSunColorStrength": 1.0,
+      "SkinShadowColorStrength": 1.119461,
+      "Offset": 0.5,
+      "ToonIntensity": 1.0,
+      "MetalMin": 0.931242,
+      "MetalMax": 1.398294,
+      "MetalInt": 3.456137,
+      "LightIntensity": 1.0,
+      "4.RimExp": 8.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseColorMask": true,
+      "UseRampShadowMask": true,
+      "UseNormalMap": true,
+      "UseLightMap": true,
+      "UseRGBAMask": true,
+      "UseLocalReflectionForMetal": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

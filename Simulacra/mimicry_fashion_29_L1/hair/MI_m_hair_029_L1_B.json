@@ -1,0 +1,93 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/male_01/ssr/mimicry_fashion_29_L1/hair/m_mimicry_fashion_29_L1_hair_02_M.m_mimicry_fashion_29_L1_hair_02_M",
+    "m_mimicry_fashion_29_L1_hair_02_M": "Hotta/Content/Resources/Characters_Vera/player/male_01/ssr/mimicry_fashion_29_L1/hair/m_mimicry_fashion_29_L1_hair_02_M.m_mimicry_fashion_29_L1_hair_02_M",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/male_01/ssr/mimicry_fashion_29_L1/hair/m_mimicry_fashion_29_L1_hair_02_D.m_mimicry_fashion_29_L1_hair_02_D",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/male_01/ssr/mimicry_fashion_29_L1/hair/m_mimicry_fashion_29_L1_hair_02_D.m_mimicry_fashion_29_L1_hair_02_D"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 0.809012,
+        "G": 0.759513,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFE9E2FF"
+      },
+      "AlphaLerpColor": {
+        "R": 0.958333,
+        "G": 0.87569,
+        "B": 0.654723,
+        "A": 1.0,
+        "Hex": "FFFBF1D4"
+      },
+      "HairColor1": {
+        "R": 0.643137,
+        "G": 0.811765,
+        "B": 0.811765,
+        "A": 1.0,
+        "Hex": "FFD2E9E9"
+      },
+      "HairColor2": {
+        "R": 0.258824,
+        "G": 0.345098,
+        "B": 0.411765,
+        "A": 1.0,
+        "Hex": "FF8B9FAC"
+      },
+      "RimColorNoMask": {
+        "R": 0.067708,
+        "G": 0.045139,
+        "B": 0.023021,
+        "A": 1.0,
+        "Hex": "FF493C2A"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 0.8,
+      "SunColorStrength": 1.5,
+      "ShadowColorStrength": 2.0,
+      "SkinSunColorStrength": 1.0,
+      "Offset": 0.6,
+      "SpecIntensity": 0.104763,
+      "BlendCenter": 0.185714,
+      "BlendDistance": 0.414286,
+      "ToonIntensity": 1.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

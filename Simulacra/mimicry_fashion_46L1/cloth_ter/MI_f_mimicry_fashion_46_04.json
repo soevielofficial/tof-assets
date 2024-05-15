@@ -1,0 +1,108 @@
+{
+  "Textures": {
+    "HardCatmap": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/T_Matcap_Silk.T_Matcap_Silk",
+    "T_Matcap_Silk": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/T_Matcap_Silk.T_Matcap_Silk",
+    "PM_SpecularMasks": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_id.T_f_mimicry_fashion_46_03_id",
+    "HardLayerMask": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_id.T_f_mimicry_fashion_46_03_id",
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/TexturesCom_HDRPanorama0039_trainstation_1K_hdri_sphere.TexturesCom_HDRPanorama0039_trainstation_1K_hdri_sphere",
+    "TexturesCom_HDRPanorama0039_trainstation_1K_hdri_sphere": "Hotta/Content/Resources/CubeMap/TexturesCom_HDRPanorama0039_trainstation_1K_hdri_sphere.TexturesCom_HDRPanorama0039_trainstation_1K_hdri_sphere",
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_m.T_f_mimicry_fashion_46_03_m",
+    "T_f_mimicry_fashion_46_03_m": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_m.T_f_mimicry_fashion_46_03_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_n.T_f_mimicry_fashion_46_03_n",
+    "NormalMap": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_n.T_f_mimicry_fashion_46_03_n",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_d.T_f_mimicry_fashion_46_03_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_46L1/cloth_ter/T_f_mimicry_fashion_46_03_d.T_f_mimicry_fashion_46_03_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "FresnelSideColor": {
+        "R": 1.0,
+        "G": 0.178443,
+        "B": 0.145833,
+        "A": 1.0,
+        "Hex": "FFFF756B"
+      },
+      "SpecColor": {
+        "R": 0.984375,
+        "G": 0.986794,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFEFEFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.533203,
+        "G": 0.582541,
+        "B": 0.65625,
+        "A": 1.0,
+        "Hex": "FFC1C9D4"
+      },
+      "CenterBaseColor": {
+        "R": 0.994792,
+        "G": 0.829328,
+        "B": 0.43004,
+        "A": 1.0,
+        "Hex": "FFFFEBAF"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "HardMin": 0.3,
+      "HardMax": 0.5,
+      "HardInt": 1.0,
+      "CubeRimIntensity": 0.5,
+      "RimFresnelBase": 1.0,
+      "RimFresnelExp": 8.0,
+      "FresnelIntensity": 1.0,
+      "NormalMapScale": 2.0,
+      "SpecSize": 0.1,
+      "SpecIntensity": 0.5,
+      "ShadowColorStrength": 2.0,
+      "SunColorStrength": 1.3,
+      "LightIntensity": 1.0,
+      "CenterTransparenct": 1.0,
+      "RimTransparent": 0.0,
+      "TransparentMultiply": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseHardCatmap": true,
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

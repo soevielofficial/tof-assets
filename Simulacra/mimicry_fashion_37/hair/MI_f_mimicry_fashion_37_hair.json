@@ -1,0 +1,71 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37/hair/imitation_37_hair_m.imitation_37_hair_m",
+    "imitation_37_hair_m": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37/hair/imitation_37_hair_m.imitation_37_hair_m",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37/hair/imitation_37_hair_d.imitation_37_hair_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_37/hair/imitation_37_hair_d.imitation_37_hair_d"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor1": {
+        "R": 0.96875,
+        "G": 0.595378,
+        "B": 0.866264,
+        "A": 1.0,
+        "Hex": "FFFCCBF0"
+      },
+      "HairColor2": {
+        "R": 0.96875,
+        "G": 0.484375,
+        "B": 0.835796,
+        "A": 1.0,
+        "Hex": "FFFCB9EC"
+      },
+      "RimColorNoMask": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "SpecSize": 1.0,
+      "SunColorStrength": 1.8,
+      "ShadowColorStrength": 1.7,
+      "Offset": 0.5,
+      "SpecIntensity": 0.08,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.8,
+      "UVStep": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseLightMap": true,
+      "UseUV2ForHairColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

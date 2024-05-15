@@ -1,0 +1,74 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_05L1/ter_cloth/f_mimicry_fashion_05L1_01_d.f_mimicry_fashion_05L1_01_d",
+    "T_SkyLight_Tex2": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Normals": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_05L1/ter_cloth/f_mimicry_fashion_05L1_01_n.f_mimicry_fashion_05L1_01_n",
+    "NormalMap": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_05L1/ter_cloth/f_mimicry_fashion_05L1_01_n.f_mimicry_fashion_05L1_01_n",
+    "BaseColor": "Hotta/Content/Resources/Characters/Player/female_01/SSR/mimicry_fashion_05L1/ter_cloth/f_mimicry_fashion_05L1_01_d.f_mimicry_fashion_05L1_01_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.984375,
+        "G": 0.986794,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFEFEFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "CenterBaseColor": {
+        "R": 0.739583,
+        "G": 0.739583,
+        "B": 0.739583,
+        "A": 1.0,
+        "Hex": "FFE0E0E0"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 0.3,
+      "RimFresnelBase": 0.238572,
+      "RimFresnelExp": 0.73228,
+      "NormalMapScale": 4.186412,
+      "SpecSize": 0.52381,
+      "SpecIntensity": 0.219048,
+      "SunColorStrength": 1.0,
+      "CenterTransparenct": 0.930957,
+      "RimTransparent": 1.154128,
+      "TransparentMultiply": 1.175613,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

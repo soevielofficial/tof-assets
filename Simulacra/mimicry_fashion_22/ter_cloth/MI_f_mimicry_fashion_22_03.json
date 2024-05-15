@@ -1,0 +1,38 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_22/ter_cloth/f_mimicry_fashion_22_03_D.f_mimicry_fashion_22_03_D",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_22/ter_cloth/f_mimicry_fashion_22_03_D.f_mimicry_fashion_22_03_D"
+  },
+  "Parameters": {
+    "BlendMode": 2,
+    "ShadingModel": 0,
+    "Colors": {
+      "Ice_Color": {
+        "R": 0.375,
+        "G": 0.518277,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFA5BFFF"
+      }
+    },
+    "Scalars": {
+      "TextureBaseColor": 0.2,
+      "TextureEmissive": 0.45,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "TwoSided": true,
+        "BlendMode": "BLEND_Translucent",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": true,
+    "IsNull": false
+  }
+}

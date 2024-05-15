@@ -1,0 +1,108 @@
+{
+  "Textures": {
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_52/ter/T_f_mimicry_fashion_52_04_m.T_f_mimicry_fashion_52_04_m",
+    "T_f_mimicry_fashion_52_04_m": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_52/ter/T_f_mimicry_fashion_52_04_m.T_f_mimicry_fashion_52_04_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_52/ter/T_f_mimicry_fashion_52_04_d.T_f_mimicry_fashion_52_04_d",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Player/female_01/SSR/mimicry_fashion_52/ter/T_f_mimicry_fashion_52_04_d.T_f_mimicry_fashion_52_04_d",
+    "Tex_Noise01": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyA019.T_EnergyA019",
+    "T_EnergyA019": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyA019.T_EnergyA019"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColorMultipy": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor": {
+        "R": 0.322917,
+        "G": 0.322917,
+        "B": 0.322917,
+        "A": 1.0,
+        "Hex": "FF9A9A9A"
+      },
+      "SunColorMuti": {
+        "R": 1.18125,
+        "G": 1.189998,
+        "B": 1.2,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "UVPixel": {
+        "R": -35.4002,
+        "G": 49.695095,
+        "B": 2.08899,
+        "A": 0.0,
+        "Hex": "00FFFF"
+      },
+      "Color_Base01": {
+        "R": 1.737279,
+        "G": 5.36047,
+        "B": 10.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Color_Base02": {
+        "R": 0.0,
+        "G": 0.286495,
+        "B": 0.520833,
+        "A": 1.0,
+        "Hex": "FF0092BF"
+      },
+      "Tex_Noise01_Max/Min": {
+        "R": 0.143603,
+        "G": 1.0,
+        "B": 0.091597,
+        "A": 1.0,
+        "Hex": "FF6AFF55"
+      },
+      "color": {
+        "R": 0.126032,
+        "G": 0.229797,
+        "B": 0.854167,
+        "A": 1.0,
+        "Hex": "FF6384EE"
+      }
+    },
+    "Scalars": {
+      "NormalMapScale": 2.0,
+      "SpecSize": 1.2,
+      "SpecIntensity": 0.4,
+      "ShadowColorStrength": 1.3,
+      "SunColorStrength": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Use_Music_FX": true,
+      "UseLightMap": true,
+      "Use_Twinkle": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.1
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

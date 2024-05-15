@@ -1,0 +1,75 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_26_L1/cloth_ter/f_mimicry_fashion_26_L1_D1_a.f_mimicry_fashion_26_L1_D1_a",
+    "T_SkyLight_Tex2": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_26_L1/cloth_ter/f_mimicry_fashion_26_L1_M1_a.f_mimicry_fashion_26_L1_M1_a",
+    "f_mimicry_fashion_26_L1_M1_a": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_26_L1/cloth_ter/f_mimicry_fashion_26_L1_M1_a.f_mimicry_fashion_26_L1_M1_a",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_26_L1/cloth_ter/f_mimicry_fashion_26_L1_D1_a.f_mimicry_fashion_26_L1_D1_a"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 0.984375,
+        "G": 0.986794,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFEFEFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "CenterBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 5.0,
+      "RimFresnelBase": 0.1,
+      "RimFresnelExp": 10.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.4,
+      "SpecIntensity": 0.005,
+      "ShadowColorStrength": 1.5,
+      "SunColorStrength": 1.0,
+      "CenterTransparenct": 1.0,
+      "RimTransparent": 1.0,
+      "TransparentMultiply": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

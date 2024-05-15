@@ -1,0 +1,116 @@
+{
+  "Textures": {
+    "Tex_Base": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyA019.T_EnergyA019",
+    "T_EnergyA019": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyA019.T_EnergyA019",
+    "Tex_Bump": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyD004.T_EnergyD004",
+    "T_EnergyD004": "Hotta/Content/Resources/Effect/Textures/Energy/T_EnergyD004.T_EnergyD004",
+    "Tex_BumpWave": "Hotta/Content/Resources/Effect/Textures/Masks/T_Mask056N.T_Mask056N",
+    "T_Mask056N": "Hotta/Content/Resources/Effect/Textures/Masks/T_Mask056N.T_Mask056N",
+    "Tex_FlowMap01": "Hotta/Content/Resources/Effect/Textures/Masks/T_Mask056N.T_Mask056N"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "Tex_Base_Color": {
+        "R": 0.0,
+        "G": 20.0,
+        "B": 5.101061,
+        "A": 0.1,
+        "Hex": "1900FFFF"
+      },
+      "Tex_Base_UVsPanner": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 0.0,
+        "A": -0.1,
+        "Hex": "FFFF00"
+      },
+      "Color_Mask_Refine": {
+        "R": 1.2,
+        "G": 2.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ColorA": {
+        "R": 0.011311,
+        "G": 0.0,
+        "B": 0.145833,
+        "A": 1.0,
+        "Hex": "FF1B006B"
+      },
+      "ColorB": {
+        "R": 0.020301,
+        "G": 0.0,
+        "B": 0.927083,
+        "A": 1.0,
+        "Hex": "FF2700F7"
+      },
+      "Tex_Bump_Color": {
+        "R": 1.052942,
+        "G": 3.5,
+        "B": 3.360657,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "Tex_Bump_Refine": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "Tex_Bump_UVsPanner": {
+        "R": 0.5,
+        "G": 0.5,
+        "B": 0.0,
+        "A": 0.1,
+        "Hex": "19BCBC00"
+      },
+      "Tex_BumpWave_UVsPanner": {
+        "R": 0.0,
+        "G": 5.759488,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "00FF00"
+      },
+      "Tex_FlowMap01_UVsPanner": {
+        "R": 3.073826,
+        "G": 4.363966,
+        "B": 0.0,
+        "A": 0.0,
+        "Hex": "FFFF00"
+      }
+    },
+    "Scalars": {
+      "FlowMap01_Lerp": 1.0,
+      "Tex_Bump_Height": -8.0,
+      "Tex_Bump_Hue": 0.5,
+      "Tex_BumpWave_Stength": 0.3,
+      "Opacity_Mask": 1.1,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Use_FlowMapToBump": true,
+      "Use_WaveToBump": true,
+      "Use_ParticleColor": false,
+      "Use_ParticleOpacity": false
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "bOverride_BlendMode": true,
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
