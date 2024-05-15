@@ -1,0 +1,78 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Vera/Weapons/weapon_divine_001_L2/ter/weapon_divine_001_L2_d.weapon_divine_001_L2_d",
+    "T_SkyLight_Tex2": "Hotta/Content/Resources/Environment/sky/StaticSkylight/Default/T_SkyLight_Tex2.T_SkyLight_Tex2",
+    "LightMap": "Hotta/Content/Resources/Characters_Vera/Weapons/weapon_divine_001_L2/ter/weapon_divine_001_L2_m.weapon_divine_001_L2_m",
+    "weapon_divine_001_L2_m": "Hotta/Content/Resources/Characters_Vera/Weapons/weapon_divine_001_L2/ter/weapon_divine_001_L2_m.weapon_divine_001_L2_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "NormalMap": "Hotta/Content/Resources/Characters/DefaultNormal1x1.DefaultNormal1x1",
+    "BaseColor": "Hotta/Content/Resources/Characters_Vera/Weapons/weapon_divine_001_L2/ter/weapon_divine_001_L2_d.weapon_divine_001_L2_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "CenterBaseColor": {
+        "R": 1.0,
+        "G": 0.955806,
+        "B": 0.988951,
+        "A": 1.0,
+        "Hex": "FFFFFAFE"
+      },
+      "RimBaseColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 1.0,
+      "RimFresnelBase": 0.04,
+      "RimFresnelExp": 8.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.009525,
+      "SpecIntensity": 0.335536,
+      "ShadowColorStrength": 1.0,
+      "SunColorStrength": 1.705465,
+      "CenterTransparenct": 1.199865,
+      "RimTransparent": 1.0,
+      "TransparentMultiply": 1.119661,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseRGBAMask": true,
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

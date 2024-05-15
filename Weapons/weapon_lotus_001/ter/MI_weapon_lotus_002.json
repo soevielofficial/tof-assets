@@ -1,0 +1,78 @@
+{
+  "Textures": {
+    "T_Rim_Cube": "Hotta/Content/Resources/CubeMap/1_Tex13_32.1_Tex13_32",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_JiuYu/Weapons/weapon_lotus_001/ter/T_weapon_lotus_001_d.T_weapon_lotus_001_d",
+    "1_Tex13_32": "Hotta/Content/Resources/CubeMap/1_Tex13_32.1_Tex13_32",
+    "LightMap": "Hotta/Content/Resources/Characters_JiuYu/Weapons/weapon_lotus_001/ter/T_weapon_lotus_001_m.T_weapon_lotus_001_m",
+    "T_weapon_lotus_001_m": "Hotta/Content/Resources/Characters_JiuYu/Weapons/weapon_lotus_001/ter/T_weapon_lotus_001_m.T_weapon_lotus_001_m",
+    "PM_Normals": "Hotta/Content/Resources/Characters_JiuYu/Weapons/weapon_lotus_001/ter/T_weapon_lotus_001_n.T_weapon_lotus_001_n",
+    "NormalMap": "Hotta/Content/Resources/Characters_JiuYu/Weapons/weapon_lotus_001/ter/T_weapon_lotus_001_n.T_weapon_lotus_001_n",
+    "BaseColor": "Hotta/Content/Resources/Characters_JiuYu/Weapons/weapon_lotus_001/ter/T_weapon_lotus_001_d.T_weapon_lotus_001_d"
+  },
+  "Parameters": {
+    "BlendMode": 5,
+    "ShadingModel": 0,
+    "Colors": {
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunColorMuti": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "CenterBaseColor": {
+        "R": 3.0,
+        "G": 0.866744,
+        "B": 2.935025,
+        "A": 1.0,
+        "Hex": "FFFFF0FF"
+      },
+      "RimBaseColor": {
+        "R": 3.5,
+        "G": 3.201416,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFFFF00"
+      }
+    },
+    "Scalars": {
+      "CubeRimIntensity": 1.0,
+      "RimFresnelBase": 0.1,
+      "RimFresnelExp": 10.0,
+      "NormalMapScale": 1.0,
+      "SpecSize": 0.1,
+      "SpecIntensity": 1.0,
+      "ShadowColorStrength": 1.5,
+      "SunColorStrength": 1.5,
+      "Offset": 0.5,
+      "CenterTransparenct": 1.2,
+      "RimTransparent": 1.0,
+      "TransparentMultiply": 1.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "UseCubeHightLight": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_AlphaComposite",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
