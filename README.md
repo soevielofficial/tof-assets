@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img height="256px" src="https://images-ext-1.discordapp.net/external/r0RuYrfPeuJsfnTchjTTNqCtJLd9eEf-cPrh9h8x-T0/https/pbs.twimg.com/media/GLMSp7Pa8AA2fS5.jpg?format=webp"></a>
+    <img height="256px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/2064650/header.jpg"></a>
 </p>
 
 <p align="center" width="100%">
@@ -16,11 +16,8 @@
     <img height="64px" src="https://cdn.7tv.app/emote/631e5c605a703c4a98db593c/4x.webp"></a>
 </p>
 
-## About 
-Repository containing assets from the game Tower of Fantasy.
-
 ## Current Version
-- 3.8 Game Version
+- 3.8
 
 ## Containing
 - Avatar
@@ -29,4 +26,4 @@ Repository containing assets from the game Tower of Fantasy.
 - Outfit
 - Weapon
 
-Read [repository wiki](https://github.com/soevielofficial/tof-assets/wiki) for assets information.
+Read the [repository wiki](https://github.com/soevielofficial/tof-assets/wiki) for assets information.
