@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img height="256px" src="https://cdn.cloudflare.steamstatic.com/steam/apps/2064650/header.jpg"></a>
+    <img height="256px" src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2064650/header.jpg?t=1716288063"></a>
 </p>
 
 <p align="center" width="100%">
@@ -17,7 +17,7 @@
 </p>
 
 ## Current Version
-- 3.8
+- 4.0
 
 ## Containing
 - Avatar
@@ -26,4 +26,5 @@
 - Outfit
 - Weapon
 
-Read the [repository wiki](https://github.com/soevielofficial/tof-assets/wiki) for assets information.
+## Other Resources
+- [io_scene_psk_psa](https://github.com/DarklightGames/io_scene_psk_psa)
