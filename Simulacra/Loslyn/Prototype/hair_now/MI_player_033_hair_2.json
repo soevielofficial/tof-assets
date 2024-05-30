@@ -1,0 +1,75 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair01_d.T_f_mimicry_fashion_58_hair01_d",
+    "BaseColorTex": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair01_d.T_f_mimicry_fashion_58_hair01_d",
+    "LightMap": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair01_m.T_f_mimicry_fashion_58_hair01_m",
+    "T_f_mimicry_fashion_58_hair01_m": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair01_m.T_f_mimicry_fashion_58_hair01_m",
+    "RampAltas": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/Curve/T_adler.T_adler",
+    "T_adler": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/Curve/T_adler.T_adler"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "ShadowColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SunColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SunLightDir": {
+        "R": 1.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FFFF0000"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "UseLocalLight": 0.0,
+      "SpecIntensity": 1.0,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.409173,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "Textures": {
+    "FaceLightMask": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_30/ter/f_mimicry_fashion_30_face_r.f_mimicry_fashion_30_face_r",
+    "f_mimicry_fashion_30_face_r": "Hotta/Content/Resources/Characters_Vera/player/female_01/SSR/mimicry_fashion_30/ter/f_mimicry_fashion_30_face_r.f_mimicry_fashion_30_face_r",
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/face_now/T_f_mimicry_fashion_58_face_d.T_f_mimicry_fashion_58_face_d",
+    "BaseColorTex": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/face_now/T_f_mimicry_fashion_58_face_d.T_f_mimicry_fashion_58_face_d",
+    "LightMap": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/face_now/f_mimicry_fashion_41_face_m.f_mimicry_fashion_41_face_m",
+    "f_mimicry_fashion_41_face_m": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/face_now/f_mimicry_fashion_41_face_m.f_mimicry_fashion_41_face_m",
+    "RampAltas": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/Curve/T_adler.T_adler",
+    "T_adler": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/Curve/T_adler.T_adler"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "NoiseMarkColor": {
+        "R": 0.140625,
+        "G": 0.031944,
+        "B": 0.027746,
+        "A": 1.0,
+        "Hex": "FF69322E"
+      }
+    },
+    "Scalars": {
+      "clipValue": 0.0,
+      "SmoothStepMax": 1.226831,
+      "SmoothStepMin": 0.0,
+      "RampID": 2.0,
+      "RampID4": 16.0,
+      "RampID6": 18.0,
+      "LightInt": 1.0,
+      "SpecIntensity": 0.84,
+      "NoseMarkScale": 4.564513,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

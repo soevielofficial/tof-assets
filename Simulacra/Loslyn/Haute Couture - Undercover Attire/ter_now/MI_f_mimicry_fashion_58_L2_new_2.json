@@ -1,0 +1,137 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_id.T_f_mimicry_fashion_58_L2_2_new_id",
+    "BaseColorTex": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_d.T_f_mimicry_fashion_58_L2_2_new_d",
+    "CharaterToneLut": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/XLToonMaterial/DefaultTextures/Curve/Character_TonemapAtlas.Character_TonemapAtlas",
+    "Character_TonemapAtlas": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/XLToonMaterial/DefaultTextures/Curve/Character_TonemapAtlas.Character_TonemapAtlas",
+    "ID_Tex": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_id.T_f_mimicry_fashion_58_L2_2_new_id",
+    "LightMap": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_m.T_f_mimicry_fashion_58_L2_2_new_m",
+    "T_f_mimicry_fashion_58_L2_2_new_m": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_m.T_f_mimicry_fashion_58_L2_2_new_m",
+    "RampAltas": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/Curve/T_adler.T_adler",
+    "T_adler": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/Curve/T_adler.T_adler",
+    "SkilMask": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_id_2.T_f_mimicry_fashion_58_L2_2_new_id_2",
+    "T_f_mimicry_fashion_58_L2_2_new_id_2": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58_L2/ter_now/T_f_mimicry_fashion_58_L2_2_new_id_2.T_f_mimicry_fashion_58_L2_2_new_id_2",
+    "Matcap3": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap062.MatCap062",
+    "MatCap062": "Hotta/Content/Resources/CoreMaterials/CharacterToonMaterial/Matcap/MatCap062.MatCap062"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "SkilColor1": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      },
+      "SkilColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SkilHighLightColor": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "SpecColor2": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "SpecColor3": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 0.0,
+        "Hex": "FFFFFF"
+      },
+      "ID4FresnelBaseColor": {
+        "R": 0.170139,
+        "G": 0.198641,
+        "B": 0.255208,
+        "A": 1.0,
+        "Hex": "FF737B8A"
+      },
+      "ID6FresnelBaseColor": {
+        "R": 0.097013,
+        "G": 0.095866,
+        "B": 0.161458,
+        "A": 1.0,
+        "Hex": "FF585770"
+      },
+      "ShadowColor": {
+        "R": 0.0,
+        "G": 0.0,
+        "B": 0.0,
+        "A": 1.0,
+        "Hex": "FF000000"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "ShadowOffsetRange": 1.0,
+      "RampID1": 2.0,
+      "RampID1_Silk": 8.0,
+      "SkinBlendBase": 0.0,
+      "SkinBlendExp": 2.0,
+      "SilkColorMin": 0.033333,
+      "SilkColoeMax": 0.808461,
+      "SilkColorPower": 1.640098,
+      "SkilHighLightMin": 0.0,
+      "SkilHighLightMax": 11.615212,
+      "HighLightNoiseScale": 300.0,
+      "SkilMaskBias": 1.0,
+      "SkilMaskHardness": 0.1,
+      "RampID2": 6.0,
+      "Matcap3Min": 1.5,
+      "Matcap3Max": 1.0,
+      "Matcap3Int": 0.0,
+      "RampID3": 1.0,
+      "SpecSmooth3": 0.2,
+      "ID4FresnelBase": 0.04,
+      "ID4FresnelPow": 2.0,
+      "RampID4": 10.0,
+      "RampID5": 12.0,
+      "ID6FresnelBase": 0.04,
+      "ID6FresnelPow": 2.0,
+      "RampID6": 14.0,
+      "LightInt": 1.0,
+      "LightdirZMul": 1.0,
+      "SpecIntensity": 8.0,
+      "SpecMetalPow": 4.400004,
+      "SpecMetalRange": 0.0001,
+      "SpecPow": 9.2,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "BlendSkinFresnel": true,
+      "BlendSilk": true,
+      "UseSilkHighLight": true,
+      "UseSilkMask": true,
+      "UseMatcap3": true,
+      "ID4_FresnelColor": true
+    },
+    "Properties": {
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

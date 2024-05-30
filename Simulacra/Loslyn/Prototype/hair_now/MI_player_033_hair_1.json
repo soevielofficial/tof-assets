@@ -1,0 +1,62 @@
+{
+  "Textures": {
+    "PM_Diffuse": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair02_d.T_f_mimicry_fashion_58_hair02_d",
+    "BaseColorTex": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair02_d.T_f_mimicry_fashion_58_hair02_d",
+    "LightMap": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair02_m.T_f_mimicry_fashion_58_hair02_m",
+    "T_f_mimicry_fashion_58_hair02_m": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/hair_now/T_f_mimicry_fashion_58_hair02_m.T_f_mimicry_fashion_58_hair02_m",
+    "RampAltas": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/Curve/T_adler.T_adler",
+    "T_adler": "Hotta/Content/Resources/Characters_Norn/Player/female_01/SSR/mimicry_fashion_58/Curve/T_adler.T_adler"
+  },
+  "Parameters": {
+    "BlendMode": 1,
+    "ShadingModel": 0,
+    "Colors": {
+      "BaseColor": {
+        "R": 1.5,
+        "G": 1.5,
+        "B": 1.5,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor1": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      },
+      "HairColor2": {
+        "R": 1.0,
+        "G": 1.0,
+        "B": 1.0,
+        "A": 1.0,
+        "Hex": "FFFFFFFF"
+      }
+    },
+    "Scalars": {
+      "OffsetStrength": 1.0,
+      "RampID": 0.0,
+      "ShadowOffsetRange": 0.5,
+      "SpecIntensity": 1.0,
+      "SpecMetalPow": 2.0,
+      "SpecMetalRange": 0.409173,
+      "BlendCenter": 0.5,
+      "BlendDistance": 0.5,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {},
+    "Properties": {
+      "BasePropertyOverrides": {
+        "BlendMode": "BLEND_Masked",
+        "ShadingModel": "MSM_Unlit",
+        "OpacityMaskClipValue": 0.3333
+      }
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
