@@ -17,7 +17,7 @@
 </p>
 
 ## Current Version
-- 4.0
+- 4.1.0
 
 ## Containing
 - Avatar
@@ -25,6 +25,3 @@
 - Simulacra
 - Outfit
 - Weapon
-
-## Other Resources
-- [io_scene_psk_psa](https://github.com/DarklightGames/io_scene_psk_psa)
